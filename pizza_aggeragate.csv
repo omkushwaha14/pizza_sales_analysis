@@ -1,0 +1,1159 @@
+order_id,quantity,"date_format(order_date, MMM)",day_name,order_time,unit_price,total_sales,pizza_size,pizza_category,pizza_name
+57,59,null,null,20,1182.75,1224.25,L,Supreme,The Pepper Salami Pizza
+62,62,null,null,21,1112.9000000000012,1112.9000000000012,L,Veggie,The Four Cheese Pizza
+12,12,null,null,22,144,144,S,Veggie,The Mediterranean Pizza
+45,46,null,null,19,933.75,954.5,L,Supreme,The Prosciutto and Arugula Pizza
+1,1,null,null,10,20.75,20.75,L,Chicken,The Thai Chicken Pizza
+11,11,null,null,20,228.25,228.25,L,Veggie,The Spinach Pesto Pizza
+1,1,null,null,23,12.5,12.5,S,Supreme,The Prosciutto and Arugula Pizza
+148,149,null,null,18,2738,2756.5,L,Veggie,The Five Cheese Pizza
+46,47,null,null,12,805,822.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+32,32,null,null,20,756.7999999999996,756.7999999999996,S,Supreme,The Brie Carre Pizza
+22,22,null,null,11,275,275,S,Supreme,The Prosciutto and Arugula Pizza
+60,62,null,null,13,720,744,S,Veggie,The Green Garden Pizza
+52,54,null,null,13,689,715.5,M,Classic,The Hawaiian Pizza
+42,43,null,null,14,619.5,634.25,M,Veggie,The Four Cheese Pizza
+12,12,null,null,15,198,198,M,Veggie,The Spinach Pesto Pizza
+74,75,null,null,19,925,937.5,M,Classic,The Pepperoni Pizza
+66,66,null,null,13,726,726,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+74,76,null,null,12,1498.5,1539,L,Veggie,The Vegetables + Vegetables Pizza
+73,76,null,null,11,1514.75,1577,L,Chicken,The Thai Chicken Pizza
+16,16,null,null,15,200,200,S,Supreme,The Spinach Supreme Pizza
+14,15,null,null,21,168,180,S,Classic,The Greek Pizza
+71,74,null,null,15,1473.25,1535.5,L,Chicken,The Southwest Chicken Pizza
+72,72,null,null,16,1206,1206,M,Chicken,The California Chicken Pizza
+18,18,null,null,15,229.5,229.5,S,Veggie,The Italian Vegetables Pizza
+1,1,null,null,23,20.75,20.75,L,Veggie,The Spinach Pesto Pizza
+80,80,null,null,18,1220,1220,L,Classic,The Pepperoni Pizza
+83,85,null,null,19,1722.25,1763.75,L,Chicken,The Barbecue Chicken Pizza
+56,59,null,null,12,1162,1224.25,L,Supreme,The Soppressata Pizza
+72,73,null,null,16,1206,1222.75,M,Chicken,The Barbecue Chicken Pizza
+79,84,null,null,12,1868.3500000000026,1986.6000000000024,S,Supreme,The Brie Carre Pizza
+67,69,null,null,16,1373.5,1414.5,L,Classic,The Italian Capocollo Pizza
+36,38,null,null,21,594,627,L,Classic,The Hawaiian Pizza
+63,63,null,null,20,1307.25,1307.25,L,Chicken,The Barbecue Chicken Pizza
+40,41,null,null,13,830,850.75,L,Supreme,The Spinach Supreme Pizza
+26,26,null,null,16,526.5,526.5,L,Supreme,The Calabrese Pizza
+32,32,null,null,21,352,352,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+1,1,null,null,23,16.5,16.5,M,Veggie,The Spinach Pesto Pizza
+43,43,null,null,11,870.75,870.75,L,Veggie,The Mexicana Pizza
+46,48,null,null,13,667,696,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+16,16,null,null,20,200,200,S,Supreme,The Italian Supreme Pizza
+12,12,null,null,22,246,246,L,Classic,The Classic Deluxe Pizza
+49,51,null,null,12,710.5,739.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+7,7,null,null,22,117.25,117.25,M,Chicken,The Chicken Pesto Pizza
+51,51,null,null,13,816,816,M,Classic,The Italian Capocollo Pizza
+8,8,null,null,13,102,102,S,Chicken,The Chicken Alfredo Pizza
+101,102,null,null,18,1666.5,1683,M,Supreme,The Italian Supreme Pizza
+53,56,null,null,14,1086.5,1148,L,Classic,The Italian Capocollo Pizza
+40,43,null,null,16,810,870.75,L,Veggie,The Spinach and Feta Pizza
+15,15,null,null,14,247.5,247.5,M,Veggie,The Spinach Pesto Pizza
+8,8,null,null,22,166,166,L,Supreme,The Prosciutto and Arugula Pizza
+90,91,null,null,16,1867.5,1888.25,L,Supreme,The Spicy Italian Pizza
+24,24,null,null,11,348,348,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+1,1,null,null,23,16.5,16.5,M,Supreme,The Soppressata Pizza
+81,82,null,null,19,1680.75,1701.5,L,Supreme,The Spicy Italian Pizza
+122,125,null,null,13,1281,1312.5,S,Classic,The Hawaiian Pizza
+13,13,null,null,21,263.25,263.25,L,Veggie,The Mediterranean Pizza
+22,22,null,null,20,451,451,L,Classic,The Greek Pizza
+45,46,null,null,13,573.75,586.5,S,Chicken,The Chicken Pesto Pizza
+19,19,null,null,11,237.5,237.5,S,Supreme,The Spinach Supreme Pizza
+73,74,null,null,17,1478.25,1498.5,L,Supreme,The Sicilian Pizza
+36,37,null,null,22,666,684.5,L,Veggie,The Five Cheese Pizza
+24,24,null,null,20,300,300,S,Veggie,The Spinach Pesto Pizza
+56,56,null,null,19,616,616,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+43,43,null,null,12,720.25,720.25,M,Chicken,The Chicken Pesto Pizza
+77,80,null,null,12,1289.75,1340,M,Chicken,The Southwest Chicken Pizza
+23,23,null,null,16,368,368,M,Classic,The Greek Pizza
+36,36,null,null,14,432,432,S,Classic,The Napolitana Pizza
+49,49,null,null,16,1249.5,1249.5,XL,Classic,The Greek Pizza
+61,61,null,null,16,930.25,930.25,L,Classic,The Pepperoni Pizza
+10,10,null,null,22,236.50000000000003,236.50000000000003,S,Supreme,The Brie Carre Pizza
+34,35,null,null,22,544,560,M,Classic,The Classic Deluxe Pizza
+24,24,null,null,15,288,288,S,Veggie,The Spinach and Feta Pizza
+40,41,null,null,13,480,492,S,Veggie,The Mediterranean Pizza
+31,31,null,null,18,643.25,643.25,L,Supreme,The Spinach Supreme Pizza
+41,41,null,null,18,512.5,512.5,S,Veggie,The Spinach Pesto Pizza
+31,31,null,null,13,651,651,L,Veggie,The Italian Vegetables Pizza
+34,34,null,null,15,544,544,M,Classic,The Napolitana Pizza
+7,7,null,null,11,145.25,145.25,L,Chicken,The Chicken Alfredo Pizza
+49,49,null,null,18,992.25,992.25,L,Veggie,The Spinach and Feta Pizza
+40,42,null,null,16,820,861,L,Classic,The Napolitana Pizza
+34,35,null,null,14,705.5,726.25,L,Chicken,The Chicken Pesto Pizza
+83,84,null,null,19,1369.5,1386,M,Supreme,The Italian Supreme Pizza
+106,106,null,null,18,1749,1749,L,Classic,The Hawaiian Pizza
+41,41,null,null,18,512.5,512.5,S,Supreme,The Prosciutto and Arugula Pizza
+46,46,null,null,16,747.5,747.5,M,Supreme,The Calabrese Pizza
+23,23,null,null,17,287.5,287.5,S,Supreme,The Soppressata Pizza
+15,15,null,null,22,303.75,303.75,L,Veggie,The Vegetables + Vegetables Pizza
+79,79,null,null,18,1639.25,1639.25,L,Supreme,The Pepper Salami Pizza
+127,129,null,null,18,2279.6500000000015,2315.550000000001,L,Veggie,The Four Cheese Pizza
+131,138,null,null,13,2161.5,2277,L,Classic,The Hawaiian Pizza
+33,34,null,null,19,412.5,425,S,Supreme,The Spinach Supreme Pizza
+52,52,null,null,15,650,650,M,Classic,The Pepperoni Pizza
+5,5,null,null,18,179.75,179.75,XXL,Classic,The Greek Pizza
+46,46,null,null,18,759,759,M,Supreme,The Pepper Salami Pizza
+51,52,null,null,17,752.25,767,M,Veggie,The Four Cheese Pizza
+12,13,null,null,22,150,162.5,S,Supreme,The Prosciutto and Arugula Pizza
+26,27,null,null,15,331.5,344.25,S,Chicken,The Barbecue Chicken Pizza
+16,16,null,null,18,204,204,S,Chicken,The Chicken Alfredo Pizza
+1,1,null,null,23,20.25,20.25,L,Veggie,The Mediterranean Pizza
+21,21,null,null,20,367.5,367.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+195,207,null,null,12,3607.5,3829.5,L,Veggie,The Five Cheese Pizza
+24,24,null,null,11,498,498,L,Chicken,The Chicken Pesto Pizza
+89,89,null,null,18,1090.25,1090.25,S,Supreme,The Sicilian Pizza
+14,14,null,null,11,168,168,S,Veggie,The Mediterranean Pizza
+34,35,null,null,11,544,560,M,Veggie,The Spinach and Feta Pizza
+43,43,null,null,16,709.5,709.5,M,Supreme,The Spicy Italian Pizza
+41,41,null,null,14,522.75,522.75,S,Chicken,The Thai Chicken Pizza
+19,19,null,null,21,394.25,394.25,L,Supreme,The Soppressata Pizza
+108,113,null,null,15,1296,1356,S,Classic,The Big Meat Pizza
+38,38,null,null,13,608,608,M,Veggie,The Green Garden Pizza
+74,74,null,null,19,721.5,721.5,S,Classic,The Pepperoni Pizza
+38,39,null,null,15,465.5,477.75,S,Supreme,The Sicilian Pizza
+80,81,null,null,17,1340,1356.75,M,Chicken,The Chicken Alfredo Pizza
+16,16,null,null,11,200,200,S,Supreme,The Soppressata Pizza
+22,22,null,null,15,363,363,M,Supreme,The Soppressata Pizza
+30,30,null,null,21,442.5,442.5,M,Veggie,The Four Cheese Pizza
+15,15,null,null,22,165,165,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+1,1,null,null,23,14.75,14.75,M,Veggie,The Four Cheese Pizza
+75,77,null,null,16,900,924,S,Classic,The Classic Deluxe Pizza
+72,72,null,null,17,1098,1098,L,Classic,The Pepperoni Pizza
+65,65,null,null,16,1348.75,1348.75,L,Supreme,The Italian Supreme Pizza
+108,111,null,null,20,2241,2303.25,L,Chicken,The Thai Chicken Pizza
+88,88,null,null,12,1408,1408,M,Veggie,The Vegetables + Vegetables Pizza
+34,34,null,null,17,561,561,M,Supreme,The Soppressata Pizza
+50,52,null,null,15,1012.5,1053,L,Veggie,The Mexicana Pizza
+34,34,null,null,15,433.5,433.5,S,Chicken,The California Chicken Pizza
+22,22,null,null,22,357.5,357.5,M,Supreme,The Calabrese Pizza
+50,50,null,null,18,1012.5,1012.5,L,Veggie,The Vegetables + Vegetables Pizza
+87,88,null,null,13,1435.5,1452,M,Supreme,The Prosciutto and Arugula Pizza
+33,33,null,null,17,668.25,668.25,L,Veggie,The Mediterranean Pizza
+30,30,null,null,17,360,360,S,Classic,The Greek Pizza
+6,6,null,null,20,121.5,121.5,L,Veggie,The Green Garden Pizza
+1,1,null,null,22,35.95,35.95,XXL,Classic,The Greek Pizza
+93,97,null,null,17,1883.25,1964.25,L,Veggie,The Mexicana Pizza
+119,124,null,null,13,2469.25,2573,L,Supreme,The Spicy Italian Pizza
+93,94,null,null,19,1488,1504,M,Classic,The Classic Deluxe Pizza
+73,77,null,null,19,1478.25,1559.25,L,Veggie,The Mexicana Pizza
+32,33,null,null,11,384,396,S,Classic,The Napolitana Pizza
+6,6,null,null,11,121.5,121.5,L,Veggie,The Green Garden Pizza
+15,15,null,null,22,191.25,191.25,S,Chicken,The Thai Chicken Pizza
+37,37,null,null,16,407,407,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+40,42,null,null,15,530,556.5,M,Classic,The Hawaiian Pizza
+45,45,null,null,16,573.75,573.75,S,Chicken,The California Chicken Pizza
+18,18,null,null,22,229.5,229.5,S,Chicken,The California Chicken Pizza
+52,52,null,null,18,1066,1066,L,Classic,The Napolitana Pizza
+33,33,null,null,18,544.5,544.5,M,Supreme,The Spicy Italian Pizza
+137,138,null,null,18,2842.75,2863.5,L,Supreme,The Spicy Italian Pizza
+83,85,null,null,19,1390.25,1423.75,M,Chicken,The California Chicken Pizza
+42,42,null,null,15,640.5,640.5,L,Classic,The Pepperoni Pizza
+8,8,null,null,21,168,168,L,Veggie,The Italian Vegetables Pizza
+40,40,null,null,16,670,670,M,Chicken,The Thai Chicken Pizza
+4,4,null,null,23,83,83,L,Supreme,The Spicy Italian Pizza
+45,45,null,null,17,720,720,M,Classic,The Napolitana Pizza
+103,112,null,null,14,2137.25,2324,L,Chicken,The Thai Chicken Pizza
+51,51,null,null,19,612,612,S,Classic,The Classic Deluxe Pizza
+40,40,null,null,19,670,670,M,Veggie,The Italian Vegetables Pizza
+2,2,null,null,23,24,24,S,Classic,The Napolitana Pizza
+19,19,null,null,15,228,228,S,Veggie,The Mexicana Pizza
+158,162,null,null,18,3278.5,3361.5,L,Chicken,The Thai Chicken Pizza
+1,1,null,null,10,20.75,20.75,L,Chicken,The Chicken Alfredo Pizza
+32,32,null,null,12,664,664,L,Chicken,The Chicken Alfredo Pizza
+55,56,null,null,17,880,896,M,Veggie,The Spinach and Feta Pizza
+47,47,null,null,21,951.75,951.75,L,Veggie,The Mexicana Pizza
+26,27,null,null,11,526.5,546.75,L,Veggie,The Spinach and Feta Pizza
+26,26,null,null,20,325,325,S,Supreme,The Spicy Italian Pizza
+43,43,null,null,17,698.75,698.75,M,Supreme,The Sicilian Pizza
+44,44,null,null,16,550,550,S,Supreme,The Spinach Supreme Pizza
+78,79,null,null,18,1618.5,1639.25,L,Supreme,The Italian Supreme Pizza
+85,85,null,null,13,1423.75,1423.75,M,Chicken,The Chicken Alfredo Pizza
+39,40,null,null,15,633.75,650,M,Supreme,The Sicilian Pizza
+34,34,null,null,13,561,561,M,Supreme,The Spinach Supreme Pizza
+40,40,null,null,14,810,810,L,Supreme,The Sicilian Pizza
+15,16,null,null,14,251.25,268,M,Chicken,The Chicken Pesto Pizza
+61,62,null,null,13,777.75,790.5,S,Chicken,The California Chicken Pizza
+87,89,null,null,12,1805.25,1846.75,L,Supreme,The Pepper Salami Pizza
+43,43,null,null,11,892.25,892.25,L,Supreme,The Pepper Salami Pizza
+21,21,null,null,11,252,252,S,Veggie,The Spinach and Feta Pizza
+39,39,null,null,19,468,468,S,Classic,The Napolitana Pizza
+69,69,null,null,17,1104,1104,M,Veggie,The Vegetables + Vegetables Pizza
+11,12,null,null,22,222.75,243,L,Supreme,The Sicilian Pizza
+62,64,null,null,12,790.5,816,S,Chicken,The California Chicken Pizza
+40,41,null,null,11,810,830.25,L,Supreme,The Sicilian Pizza
+60,60,null,null,21,960,960,M,Classic,The Classic Deluxe Pizza
+55,55,null,null,12,880,880,M,Veggie,The Mexicana Pizza
+24,24,null,null,14,306,306,S,Veggie,The Italian Vegetables Pizza
+49,49,null,null,19,624.75,624.75,S,Chicken,The Barbecue Chicken Pizza
+10,10,null,null,16,127.5,127.5,S,Chicken,The Chicken Alfredo Pizza
+1,1,null,null,23,16.75,16.75,M,Chicken,The Barbecue Chicken Pizza
+71,74,null,null,13,1047.25,1091.5,M,Veggie,The Four Cheese Pizza
+23,23,null,null,17,379.5,379.5,M,Supreme,The Spinach Supreme Pizza
+34,34,null,null,18,544,544,M,Veggie,The Mediterranean Pizza
+17,17,null,null,11,352.75,352.75,L,Supreme,The Prosciutto and Arugula Pizza
+68,70,null,null,17,1394,1435,L,Classic,The Italian Capocollo Pizza
+33,33,null,null,19,668.25,668.25,L,Veggie,The Mediterranean Pizza
+3,3,null,null,23,37.5,37.5,S,Supreme,The Spicy Italian Pizza
+27,27,null,null,15,452.25,452.25,M,Chicken,The Thai Chicken Pizza
+30,32,null,null,14,480,512,M,Classic,The Italian Capocollo Pizza
+143,148,null,null,13,2967.25,3071,L,Chicken,The Southwest Chicken Pizza
+22,22,null,null,21,291.5,291.5,M,Classic,The Hawaiian Pizza
+40,43,null,null,11,490,526.75,S,Supreme,The Sicilian Pizza
+1,1,null,null,10,20.75,20.75,L,Chicken,The Southwest Chicken Pizza
+36,36,null,null,15,603,603,M,Veggie,The Italian Vegetables Pizza
+24,24,null,null,21,498,498,L,Supreme,The Prosciutto and Arugula Pizza
+73,74,null,null,15,1514.75,1535.5,L,Supreme,The Spicy Italian Pizza
+45,45,null,null,17,652.5,652.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+46,47,null,null,13,954.5,975.25,L,Chicken,The Chicken Pesto Pizza
+30,30,null,null,16,495,495,M,Veggie,The Spinach Pesto Pizza
+61,61,null,null,13,762.5,762.5,S,Supreme,The Prosciutto and Arugula Pizza
+1,1,null,null,23,12,12,S,Veggie,The Spinach and Feta Pizza
+1,1,null,null,23,20.75,20.75,L,Supreme,The Soppressata Pizza
+51,52,null,null,17,675.75,689,M,Classic,The Hawaiian Pizza
+24,24,null,null,20,498,498,L,Chicken,The Chicken Pesto Pizza
+15,15,null,null,22,247.5,247.5,M,Supreme,The Spicy Italian Pizza
+28,28,null,null,16,581,581,L,Chicken,The Chicken Pesto Pizza
+15,15,null,null,19,315,315,L,Veggie,The Italian Vegetables Pizza
+24,24,null,null,14,486,486,L,Veggie,The Mediterranean Pizza
+66,69,null,null,11,1184.7000000000014,1238.5500000000015,L,Veggie,The Four Cheese Pizza
+66,66,null,null,18,1105.5,1105.5,M,Chicken,The Chicken Alfredo Pizza
+21,21,null,null,21,430.5,430.5,L,Classic,The Greek Pizza
+52,54,null,null,18,845,877.5,M,Supreme,The Calabrese Pizza
+14,14,null,null,20,231,231,M,Supreme,The Soppressata Pizza
+43,43,null,null,17,892.25,892.25,L,Supreme,The Spinach Supreme Pizza
+53,54,null,null,18,675.75,688.5,S,Chicken,The Barbecue Chicken Pizza
+45,46,null,null,15,922.5,943,L,Classic,The Italian Capocollo Pizza
+33,33,null,null,11,396,396,S,Veggie,The Green Garden Pizza
+30,30,null,null,15,480,480,M,Veggie,The Mexicana Pizza
+43,43,null,null,13,709.5,709.5,M,Supreme,The Soppressata Pizza
+42,44,null,null,14,640.5,671,L,Classic,The Pepperoni Pizza
+15,15,null,null,18,180,180,S,Veggie,The Mexicana Pizza
+3,3,null,null,23,36,36,S,Classic,The Big Meat Pizza
+56,56,null,null,16,896,896,M,Veggie,The Vegetables + Vegetables Pizza
+47,47,null,null,19,564,564,S,Veggie,The Vegetables + Vegetables Pizza
+45,45,null,null,16,573.75,573.75,S,Chicken,The Thai Chicken Pizza
+25,25,null,null,17,318.75,318.75,S,Veggie,The Italian Vegetables Pizza
+45,45,null,null,21,933.75,933.75,L,Chicken,The Barbecue Chicken Pizza
+5,5,null,null,21,101.25,101.25,L,Veggie,The Green Garden Pizza
+50,50,null,null,19,837.5,837.5,M,Chicken,The Thai Chicken Pizza
+86,89,null,null,13,838.5,867.75,S,Classic,The Pepperoni Pizza
+6,6,null,null,11,76.5,76.5,S,Chicken,The Chicken Alfredo Pizza
+3,3,null,null,22,48,48,M,Veggie,The Mediterranean Pizza
+60,60,null,null,17,1230,1230,L,Classic,The Napolitana Pizza
+1,1,null,null,23,12,12,S,Classic,The Classic Deluxe Pizza
+9,9,null,null,12,114.75,114.75,S,Chicken,The Chicken Alfredo Pizza
+4,4,null,null,14,49,49,S,Supreme,The Calabrese Pizza
+41,41,null,null,18,522.75,522.75,S,Chicken,The Southwest Chicken Pizza
+10,11,null,null,14,165,181.5,M,Supreme,The Spinach Supreme Pizza
+94,98,null,null,20,1739,1813,L,Veggie,The Five Cheese Pizza
+50,50,null,null,16,737.5,737.5,M,Veggie,The Four Cheese Pizza
+28,28,null,null,13,567,567,L,Supreme,The Calabrese Pizza
+22,22,null,null,15,445.5,445.5,L,Veggie,The Mediterranean Pizza
+1,1,null,null,23,16.75,16.75,M,Chicken,The Chicken Pesto Pizza
+134,135,null,null,18,2144,2160,M,Classic,The Classic Deluxe Pizza
+22,22,null,null,20,280.5,280.5,S,Chicken,The Southwest Chicken Pizza
+58,58,null,null,17,1174.5,1174.5,L,Veggie,The Vegetables + Vegetables Pizza
+90,91,null,null,18,1080,1092,S,Classic,The Classic Deluxe Pizza
+32,32,null,null,17,512,512,M,Veggie,The Green Garden Pizza
+36,36,null,null,18,603,603,M,Chicken,The Chicken Pesto Pizza
+14,14,null,null,20,290.5,290.5,L,Supreme,The Soppressata Pizza
+55,55,null,null,18,811.25,811.25,M,Veggie,The Four Cheese Pizza
+1,1,null,null,23,20.75,20.75,L,Chicken,The Southwest Chicken Pizza
+86,87,null,null,14,903,913.5,S,Classic,The Hawaiian Pizza
+31,31,null,null,14,519.25,519.25,M,Chicken,The Thai Chicken Pizza
+99,103,null,null,12,1509.75,1570.75,L,Classic,The Pepperoni Pizza
+38,40,null,null,11,788.5,830,L,Chicken,The Southwest Chicken Pizza
+7,7,null,null,11,85.75,85.75,S,Supreme,The Calabrese Pizza
+35,35,null,null,20,420,420,S,Veggie,The Vegetables + Vegetables Pizza
+84,88,null,null,12,1365,1430,M,Supreme,The Sicilian Pizza
+48,52,null,null,12,600,650,S,Supreme,The Spicy Italian Pizza
+38,38,null,null,16,475,475,S,Supreme,The Prosciutto and Arugula Pizza
+35,37,null,null,12,446.25,471.75,S,Veggie,The Italian Vegetables Pizza
+34,34,null,null,16,688.5,688.5,L,Veggie,The Mediterranean Pizza
+60,63,null,null,12,990,1039.5,M,Supreme,The Prosciutto and Arugula Pizza
+14,14,null,null,13,171.5,171.5,S,Supreme,The Calabrese Pizza
+66,67,null,null,19,1006.5,1021.75,L,Classic,The Pepperoni Pizza
+51,52,null,null,11,854.25,871,M,Chicken,The California Chicken Pizza
+4,4,null,null,14,81,81,L,Veggie,The Green Garden Pizza
+24,24,null,null,11,498,498,L,Supreme,The Soppressata Pizza
+71,72,null,null,19,1171.5,1188,L,Classic,The Hawaiian Pizza
+19,19,null,null,15,242.25,242.25,S,Chicken,The Chicken Pesto Pizza
+13,13,null,null,21,217.75,217.75,M,Chicken,The Chicken Pesto Pizza
+128,131,null,null,17,2368,2423.5,L,Veggie,The Five Cheese Pizza
+30,30,null,null,12,495,495,M,Supreme,The Soppressata Pizza
+35,35,null,null,14,726.25,726.25,L,Supreme,The Soppressata Pizza
+34,34,null,null,16,493,493,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+40,40,null,null,15,640,640,M,Veggie,The Spinach and Feta Pizza
+43,44,null,null,12,548.25,561,S,Chicken,The Southwest Chicken Pizza
+68,68,null,null,16,663,663,S,Classic,The Pepperoni Pizza
+30,30,null,null,20,480,480,M,Veggie,The Green Garden Pizza
+1,1,null,null,23,20.25,20.25,L,Veggie,The Mexicana Pizza
+223,241,null,null,13,2676,2892,S,Classic,The Big Meat Pizza
+55,59,null,null,13,907.5,973.5,M,Supreme,The Spicy Italian Pizza
+45,45,null,null,20,933.75,933.75,L,Supreme,The Italian Supreme Pizza
+49,50,null,null,21,808.5,825,M,Supreme,The Italian Supreme Pizza
+25,25,null,null,15,362.5,362.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+16,17,null,null,12,324,344.25,L,Veggie,The Green Garden Pizza
+14,14,null,null,14,175,175,S,Supreme,The Italian Supreme Pizza
+72,75,null,null,14,1188,1237.5,L,Classic,The Hawaiian Pizza
+26,26,null,null,11,325,325,S,Veggie,The Spinach Pesto Pizza
+14,14,null,null,18,175,175,S,Supreme,The Italian Supreme Pizza
+45,45,null,null,19,720,720,M,Veggie,The Mexicana Pizza
+66,68,null,null,12,1105.5,1139,M,Chicken,The Thai Chicken Pizza
+53,53,null,null,19,874.5,874.5,M,Supreme,The Prosciutto and Arugula Pizza
+27,28,null,null,12,337.5,350,S,Supreme,The Italian Supreme Pizza
+41,42,null,null,21,656,672,M,Veggie,The Vegetables + Vegetables Pizza
+20,21,null,null,11,472.99999999999983,496.6499999999998,S,Supreme,The Brie Carre Pizza
+29,30,null,null,20,420.5,435,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+72,76,null,null,16,1188,1254,M,Supreme,The Italian Supreme Pizza
+23,24,null,null,15,368,384,M,Classic,The Italian Capocollo Pizza
+32,32,null,null,15,384,384,S,Veggie,The Vegetables + Vegetables Pizza
+33,33,null,null,13,552.75,552.75,M,Chicken,The Chicken Pesto Pizza
+21,22,null,null,15,262.5,275,S,Supreme,The Prosciutto and Arugula Pizza
+112,117,null,null,13,1876,1959.75,M,Chicken,The Barbecue Chicken Pizza
+27,27,null,null,21,560.25,560.25,L,Chicken,The Chicken Pesto Pizza
+24,24,null,null,16,306,306,S,Veggie,The Italian Vegetables Pizza
+37,37,null,null,15,943.5,943.5,XL,Classic,The Greek Pizza
+17,17,null,null,15,204,204,S,Classic,The Greek Pizza
+49,49,null,null,17,1016.75,1016.75,L,Supreme,The Soppressata Pizza
+39,39,null,null,20,799.5,799.5,L,Classic,The Napolitana Pizza
+113,116,null,null,17,1808,1856,M,Classic,The Classic Deluxe Pizza
+56,56,null,null,18,896,896,M,Veggie,The Spinach and Feta Pizza
+1,1,null,null,23,16.25,16.25,M,Supreme,The Sicilian Pizza
+112,117,null,null,12,1848,1930.5,L,Classic,The Hawaiian Pizza
+84,87,null,null,12,1722,1783.5,L,Classic,The Napolitana Pizza
+15,15,null,null,21,240,240,M,Veggie,The Mediterranean Pizza
+79,79,null,null,18,948,948,S,Veggie,The Green Garden Pizza
+43,44,null,null,14,548.25,561,S,Chicken,The California Chicken Pizza
+10,10,null,null,21,125,125,S,Supreme,The Italian Supreme Pizza
+117,123,null,null,20,1404,1476,S,Classic,The Big Meat Pizza
+38,38,null,null,21,456,456,S,Classic,The Classic Deluxe Pizza
+34,35,null,null,17,425,437.5,S,Supreme,The Spinach Supreme Pizza
+3,3,null,null,21,38.25,38.25,S,Chicken,The Chicken Alfredo Pizza
+50,52,null,null,19,812.5,845,M,Supreme,The Sicilian Pizza
+20,20,null,null,11,405,405,L,Veggie,The Vegetables + Vegetables Pizza
+64,66,null,null,20,976,1006.5,L,Classic,The Pepperoni Pizza
+51,52,null,null,18,650.25,663,S,Chicken,The California Chicken Pizza
+19,19,null,null,15,394.25,394.25,L,Supreme,The Prosciutto and Arugula Pizza
+14,14,null,null,11,231,231,M,Veggie,The Spinach Pesto Pizza
+1,1,null,null,14,35.95,35.95,XXL,Classic,The Greek Pizza
+2,2,null,null,23,25.5,25.5,S,Chicken,The Barbecue Chicken Pizza
+163,170,null,null,16,1956,2040,S,Classic,The Big Meat Pizza
+110,112,null,null,18,1155,1176,S,Classic,The Hawaiian Pizza
+20,20,null,null,18,420,420,L,Veggie,The Italian Vegetables Pizza
+64,64,null,null,15,1024,1024,M,Classic,The Classic Deluxe Pizza
+13,13,null,null,15,159.25,159.25,S,Supreme,The Calabrese Pizza
+16,18,null,null,22,332,373.5,L,Chicken,The Chicken Pesto Pizza
+1,1,null,null,10,20.75,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+40,43,null,null,14,660,709.5,M,Supreme,The Prosciutto and Arugula Pizza
+25,25,null,null,15,300,300,S,Veggie,The Mediterranean Pizza
+22,22,null,null,11,324.5,324.5,M,Veggie,The Four Cheese Pizza
+13,13,null,null,14,214.5,214.5,M,Supreme,The Soppressata Pizza
+21,21,null,null,22,346.5,346.5,M,Supreme,The Prosciutto and Arugula Pizza
+14,14,null,null,15,287,287,L,Classic,The Greek Pizza
+4,4,null,null,22,84,84,L,Veggie,The Italian Vegetables Pizza
+1,1,null,null,23,16.5,16.5,M,Supreme,The Spinach Supreme Pizza
+66,68,null,null,16,808.5,833,S,Supreme,The Sicilian Pizza
+14,14,null,null,21,224,224,M,Veggie,The Green Garden Pizza
+33,33,null,null,14,544.5,544.5,M,Supreme,The Pepper Salami Pizza
+44,45,null,null,14,528,540,S,Veggie,The Green Garden Pizza
+30,30,null,null,19,480,480,M,Veggie,The Green Garden Pizza
+22,22,null,null,22,231,231,S,Classic,The Hawaiian Pizza
+30,30,null,null,21,615,615,L,Classic,The Italian Capocollo Pizza
+1,1,null,null,23,16.5,16.5,M,Supreme,The Pepper Salami Pizza
+92,94,null,null,16,966,987,S,Classic,The Hawaiian Pizza
+102,104,null,null,16,1887,1924,L,Veggie,The Five Cheese Pizza
+53,54,null,null,15,636,648,S,Veggie,The Green Garden Pizza
+7,7,null,null,22,112,112,M,Classic,The Greek Pizza
+9,9,null,null,22,112.5,112.5,S,Supreme,The Soppressata Pizza
+12,12,null,null,22,249,249,L,Supreme,The Soppressata Pizza
+54,54,null,null,19,648,648,S,Veggie,The Green Garden Pizza
+72,73,null,null,12,1170,1186.25,M,Supreme,The Calabrese Pizza
+24,24,null,null,17,498,498,L,Chicken,The Chicken Alfredo Pizza
+49,49,null,null,17,1016.75,1016.75,L,Supreme,The Prosciutto and Arugula Pizza
+23,24,null,null,14,368,384,M,Classic,The Napolitana Pizza
+11,11,null,null,11,132,132,S,Veggie,The Mexicana Pizza
+13,13,null,null,21,269.75,269.75,L,Veggie,The Spinach Pesto Pizza
+41,42,null,null,20,604.75,619.5,M,Veggie,The Four Cheese Pizza
+8,8,null,null,18,162,162,L,Veggie,The Green Garden Pizza
+24,24,null,null,22,294,294,S,Supreme,The Sicilian Pizza
+26,26,null,null,20,325,325,S,Supreme,The Soppressata Pizza
+5,5,null,null,17,101.25,101.25,L,Veggie,The Green Garden Pizza
+36,36,null,null,11,549,549,L,Classic,The Pepperoni Pizza
+65,65,null,null,18,1056.25,1056.25,M,Supreme,The Sicilian Pizza
+96,99,null,null,16,1536,1584,M,Classic,The Classic Deluxe Pizza
+49,50,null,null,14,796.25,812.5,M,Supreme,The Sicilian Pizza
+60,63,null,null,13,1005,1055.25,M,Veggie,The Italian Vegetables Pizza
+68,69,null,null,13,1734,1759.5,XL,Classic,The Greek Pizza
+23,23,null,null,20,368,368,M,Veggie,The Mexicana Pizza
+22,22,null,null,11,352,352,M,Veggie,The Vegetables + Vegetables Pizza
+31,31,null,null,17,627.75,627.75,L,Supreme,The Calabrese Pizza
+53,56,null,null,13,1253.4500000000003,1324.4000000000005,S,Supreme,The Brie Carre Pizza
+7,7,null,null,22,115.5,115.5,M,Supreme,The Soppressata Pizza
+46,46,null,null,21,770.5,770.5,M,Chicken,The Chicken Alfredo Pizza
+36,36,null,null,17,576,576,M,Veggie,The Mediterranean Pizza
+40,40,null,null,20,510,510,S,Chicken,The California Chicken Pizza
+37,37,null,null,11,619.75,619.75,M,Chicken,The Southwest Chicken Pizza
+67,67,null,null,19,820.75,820.75,S,Supreme,The Sicilian Pizza
+56,56,null,null,15,1162,1162,L,Supreme,The Italian Supreme Pizza
+31,31,null,null,13,643.25,643.25,L,Chicken,The Chicken Alfredo Pizza
+12,12,null,null,22,144,144,S,Classic,The Greek Pizza
+30,30,null,null,20,607.5,607.5,L,Veggie,The Vegetables + Vegetables Pizza
+28,28,null,null,21,406,406,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+137,143,null,null,14,1644,1716,S,Classic,The Big Meat Pizza
+60,61,null,null,12,960,976,M,Veggie,The Spinach and Feta Pizza
+23,23,null,null,19,477.25,477.25,L,Veggie,The Spinach Pesto Pizza
+68,68,null,null,15,1122,1122,M,Supreme,The Italian Supreme Pizza
+29,29,null,null,14,362.5,362.5,S,Supreme,The Prosciutto and Arugula Pizza
+109,117,null,null,13,1825.75,1959.75,M,Chicken,The California Chicken Pizza
+4,4,null,null,22,83,83,L,Chicken,The Chicken Alfredo Pizza
+29,29,null,null,14,478.5,478.5,M,Supreme,The Spicy Italian Pizza
+1,1,null,null,23,18.5,18.5,L,Veggie,The Five Cheese Pizza
+3,3,null,null,23,53.849999999999994,53.849999999999994,L,Veggie,The Four Cheese Pizza
+50,50,null,null,17,600,600,S,Veggie,The Spinach and Feta Pizza
+108,111,null,null,16,1938.6000000000033,1992.4500000000032,L,Veggie,The Four Cheese Pizza
+41,41,null,null,15,666.25,666.25,M,Supreme,The Calabrese Pizza
+19,20,null,null,14,384.75,405,L,Supreme,The Calabrese Pizza
+47,47,null,null,18,975.25,975.25,L,Supreme,The Prosciutto and Arugula Pizza
+35,35,null,null,20,586.25,586.25,M,Chicken,The Southwest Chicken Pizza
+31,31,null,null,17,387.5,387.5,S,Supreme,The Pepper Salami Pizza
+24,24,null,null,14,288,288,S,Classic,The Italian Capocollo Pizza
+19,19,null,null,22,237.5,237.5,S,Veggie,The Spinach Pesto Pizza
+78,80,null,null,12,936,960,S,Veggie,The Green Garden Pizza
+33,33,null,null,18,412.5,412.5,S,Supreme,The Soppressata Pizza
+51,54,null,null,13,637.5,675,S,Supreme,The Spinach Supreme Pizza
+22,22,null,null,11,368.5,368.5,M,Chicken,The Chicken Pesto Pizza
+6,6,null,null,14,76.5,76.5,S,Chicken,The Chicken Alfredo Pizza
+164,167,null,null,12,2624,2672,M,Classic,The Classic Deluxe Pizza
+17,17,null,null,15,284.75,284.75,M,Chicken,The Chicken Pesto Pizza
+12,12,null,null,22,246,246,L,Classic,The Napolitana Pizza
+26,26,null,null,16,325,325,S,Supreme,The Spicy Italian Pizza
+100,101,null,null,16,2075,2095.75,L,Chicken,The Barbecue Chicken Pizza
+118,124,null,null,13,1947,2046,M,Supreme,The Italian Supreme Pizza
+35,35,null,null,19,437.5,437.5,S,Veggie,The Spinach Pesto Pizza
+36,37,null,null,14,918,943.5,XL,Classic,The Greek Pizza
+57,57,null,null,20,684,684,S,Classic,The Classic Deluxe Pizza
+13,13,null,null,19,269.75,269.75,L,Chicken,The Chicken Alfredo Pizza
+39,39,null,null,14,633.75,633.75,M,Supreme,The Calabrese Pizza
+43,44,null,null,11,892.25,913,L,Supreme,The Italian Supreme Pizza
+27,27,null,null,12,324,324,S,Classic,The Italian Capocollo Pizza
+17,17,null,null,11,216.75,216.75,S,Chicken,The Chicken Pesto Pizza
+22,22,null,null,20,280.5,280.5,S,Chicken,The Chicken Pesto Pizza
+48,48,null,null,15,792,792,L,Classic,The Hawaiian Pizza
+1,1,null,null,23,16.5,16.5,M,Supreme,The Spicy Italian Pizza
+23,23,null,null,21,287.5,287.5,S,Supreme,The Spinach Supreme Pizza
+33,33,null,null,11,536.25,536.25,M,Supreme,The Sicilian Pizza
+14,14,null,null,19,283.5,283.5,L,Veggie,The Green Garden Pizza
+23,23,null,null,14,276,276,S,Veggie,The Mediterranean Pizza
+67,69,null,null,15,804,828,S,Classic,The Classic Deluxe Pizza
+41,42,null,null,14,686.75,703.5,M,Chicken,The Chicken Alfredo Pizza
+61,62,null,null,21,1265.75,1286.5,L,Chicken,The Southwest Chicken Pizza
+31,31,null,null,11,395.25,395.25,S,Chicken,The Thai Chicken Pizza
+8,8,null,null,22,102,102,S,Veggie,The Italian Vegetables Pizza
+58,60,null,null,15,609,630,S,Classic,The Hawaiian Pizza
+46,48,null,null,16,931.5,972,L,Supreme,The Sicilian Pizza
+46,46,null,null,18,805,805,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+39,43,null,null,11,653.25,720.25,M,Chicken,The Barbecue Chicken Pizza
+32,32,null,null,18,400,400,S,Supreme,The Pepper Salami Pizza
+27,27,null,null,21,344.25,344.25,S,Chicken,The Barbecue Chicken Pizza
+19,19,null,null,20,237.5,237.5,S,Supreme,The Pepper Salami Pizza
+34,34,null,null,19,425,425,S,Supreme,The Soppressata Pizza
+21,21,null,null,11,262.5,262.5,S,Supreme,The Pepper Salami Pizza
+1,1,null,null,23,20.5,20.5,L,Classic,The Classic Deluxe Pizza
+46,46,null,null,21,575,575,M,Classic,The Pepperoni Pizza
+37,37,null,null,16,619.75,619.75,M,Veggie,The Italian Vegetables Pizza
+36,36,null,null,14,738,738,L,Classic,The Classic Deluxe Pizza
+72,72,null,null,20,1188,1188,M,Supreme,The Italian Supreme Pizza
+24,24,null,null,11,384,384,M,Classic,The Napolitana Pizza
+29,31,null,null,18,601.75,643.25,L,Veggie,The Spinach Pesto Pizza
+40,40,null,null,19,700,700,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+31,31,null,null,18,496,496,M,Veggie,The Green Garden Pizza
+29,29,null,null,12,609,609,L,Veggie,The Italian Vegetables Pizza
+104,106,null,null,18,2158,2199.5,L,Chicken,The Barbecue Chicken Pizza
+1,2,null,null,10,17.95,35.9,L,Veggie,The Four Cheese Pizza
+35,35,null,null,19,507.5,507.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+24,24,null,null,15,306,306,S,Chicken,The Southwest Chicken Pizza
+91,91,null,null,15,1633.4500000000025,1633.4500000000025,L,Veggie,The Four Cheese Pizza
+21,21,null,null,20,252,252,S,Classic,The Greek Pizza
+40,41,null,null,12,500,512.5,S,Supreme,The Pepper Salami Pizza
+34,34,null,null,22,561,561,M,Supreme,The Italian Supreme Pizza
+78,80,null,null,20,1618.5,1660,L,Supreme,The Spicy Italian Pizza
+60,60,null,null,11,960,960,M,Classic,The Classic Deluxe Pizza
+53,53,null,null,21,556.5,556.5,S,Classic,The Hawaiian Pizza
+27,27,null,null,21,546.75,546.75,L,Veggie,The Spinach and Feta Pizza
+57,57,null,null,17,954.75,954.75,M,Chicken,The Southwest Chicken Pizza
+6,6,null,null,11,124.5,124.5,L,Veggie,The Spinach Pesto Pizza
+12,12,null,null,21,249,249,L,Supreme,The Spinach Supreme Pizza
+28,29,null,null,19,350,362.5,S,Supreme,The Pepper Salami Pizza
+39,39,null,null,17,809.25,809.25,L,Chicken,The Chicken Pesto Pizza
+111,115,null,null,12,2275.5,2357.5,L,Classic,The Italian Capocollo Pizza
+85,87,null,null,18,828.75,848.25,S,Classic,The Pepperoni Pizza
+59,60,null,null,17,708,720,S,Classic,The Napolitana Pizza
+2,2,null,null,13,71.9,71.9,XXL,Classic,The Greek Pizza
+48,48,null,null,21,996,996,L,Chicken,The California Chicken Pizza
+35,35,null,null,20,577.5,577.5,M,Supreme,The Spicy Italian Pizza
+34,34,null,null,20,425,425,S,Supreme,The Spinach Supreme Pizza
+16,16,null,null,21,256,256,M,Classic,The Greek Pizza
+83,84,null,null,20,1328,1344,M,Classic,The Classic Deluxe Pizza
+51,51,null,null,19,1300.5,1300.5,XL,Classic,The Greek Pizza
+20,20,null,null,21,250,250,S,Supreme,The Prosciutto and Arugula Pizza
+37,37,null,null,19,490.25,490.25,M,Classic,The Hawaiian Pizza
+9,9,null,null,22,144,144,M,Classic,The Italian Capocollo Pizza
+110,112,null,null,19,1974.5000000000034,2010.4000000000035,L,Veggie,The Four Cheese Pizza
+37,38,null,null,11,407,418,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+27,27,null,null,19,324,324,S,Veggie,The Mediterranean Pizza
+38,40,null,null,20,769.5,810,L,Veggie,The Mediterranean Pizza
+13,14,null,null,22,156,168,S,Veggie,The Green Garden Pizza
+43,43,null,null,15,870.75,870.75,L,Supreme,The Sicilian Pizza
+27,27,null,null,15,324,324,S,Classic,The Napolitana Pizza
+27,27,null,null,14,344.25,344.25,S,Chicken,The Southwest Chicken Pizza
+49,50,null,null,17,784,800,M,Veggie,The Mexicana Pizza
+1,1,null,null,23,12,12,S,Classic,The Italian Capocollo Pizza
+5,5,null,null,14,103.75,103.75,L,Chicken,The Chicken Alfredo Pizza
+132,135,null,null,12,1386,1417.5,S,Classic,The Hawaiian Pizza
+108,112,null,null,13,1296,1344,S,Classic,The Classic Deluxe Pizza
+10,10,null,null,11,210,210,L,Veggie,The Italian Vegetables Pizza
+81,86,null,null,13,1640.25,1741.5,L,Supreme,The Sicilian Pizza
+53,55,null,null,12,1351.5,1402.5,XL,Classic,The Greek Pizza
+84,85,null,null,13,1344,1360,M,Veggie,The Vegetables + Vegetables Pizza
+27,29,null,null,16,546.75,587.25,L,Veggie,The Vegetables + Vegetables Pizza
+29,29,null,null,15,507.5,507.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+4,4,null,null,15,81,81,L,Veggie,The Green Garden Pizza
+1,1,null,null,10,12.5,12.5,M,Classic,The Pepperoni Pizza
+1,1,null,null,23,20.75,20.75,L,Supreme,The Pepper Salami Pizza
+26,27,null,null,16,539.5,560.25,L,Supreme,The Spinach Supreme Pizza
+17,17,null,null,22,272,272,M,Veggie,The Spinach and Feta Pizza
+25,25,null,null,21,400,400,M,Classic,The Napolitana Pizza
+21,21,null,null,19,435.75,435.75,L,Supreme,The Spinach Supreme Pizza
+17,17,null,null,21,216.75,216.75,S,Chicken,The Thai Chicken Pizza
+92,94,null,null,18,1909,1950.5,L,Chicken,The California Chicken Pizza
+91,94,null,null,11,1092,1128,S,Classic,The Big Meat Pizza
+31,31,null,null,20,395.25,395.25,S,Veggie,The Italian Vegetables Pizza
+58,58,null,null,20,1189,1189,L,Classic,The Italian Capocollo Pizza
+41,41,null,null,18,522.75,522.75,S,Veggie,The Italian Vegetables Pizza
+2,2,null,null,23,33.5,33.5,M,Veggie,The Italian Vegetables Pizza
+35,35,null,null,18,708.75,708.75,L,Supreme,The Calabrese Pizza
+59,59,null,null,18,1209.5,1209.5,L,Classic,The Classic Deluxe Pizza
+32,32,null,null,19,648,648,L,Veggie,The Spinach and Feta Pizza
+16,16,null,null,15,200,200,S,Supreme,The Soppressata Pizza
+10,10,null,null,22,160,160,M,Veggie,The Mexicana Pizza
+49,52,null,null,14,588,624,S,Veggie,The Vegetables + Vegetables Pizza
+70,70,null,null,19,1452.5,1452.5,L,Supreme,The Pepper Salami Pizza
+20,20,null,null,22,250,250,M,Classic,The Pepperoni Pizza
+49,49,null,null,18,1016.75,1016.75,L,Supreme,The Soppressata Pizza
+59,59,null,null,17,1395.3500000000008,1395.3500000000008,S,Supreme,The Brie Carre Pizza
+56,56,null,null,21,1162,1162,L,Supreme,The Spicy Italian Pizza
+68,71,null,null,14,1139,1189.25,M,Chicken,The Barbecue Chicken Pizza
+45,45,null,null,13,933.75,933.75,L,Veggie,The Spinach Pesto Pizza
+62,62,null,null,13,992,992,M,Classic,The Napolitana Pizza
+28,28,null,null,20,357,357,S,Chicken,The Barbecue Chicken Pizza
+112,115,null,null,13,1400,1437.5,M,Classic,The Pepperoni Pizza
+51,51,null,null,17,1045.5,1045.5,L,Classic,The Classic Deluxe Pizza
+43,43,null,null,21,892.25,892.25,L,Supreme,The Italian Supreme Pizza
+49,50,null,null,19,1004.5,1025,L,Classic,The Italian Capocollo Pizza
+25,26,null,null,19,418.75,435.5,M,Chicken,The Chicken Pesto Pizza
+38,38,null,null,15,898.6999999999995,898.6999999999995,S,Supreme,The Brie Carre Pizza
+41,43,null,null,12,522.75,548.25,S,Chicken,The Chicken Pesto Pizza
+37,37,null,null,11,943.5,943.5,XL,Classic,The Greek Pizza
+72,72,null,null,14,1494,1494,L,Chicken,The Barbecue Chicken Pizza
+119,120,null,null,17,2469.25,2490,L,Supreme,The Spicy Italian Pizza
+50,53,null,null,11,625,662.5,M,Classic,The Pepperoni Pizza
+25,25,null,null,16,318.75,318.75,S,Chicken,The Chicken Pesto Pizza
+67,69,null,null,20,1122.25,1155.75,M,Chicken,The Barbecue Chicken Pizza
+9,9,null,null,22,186.75,186.75,L,Supreme,The Spinach Supreme Pizza
+18,18,null,null,14,288,288,M,Veggie,The Mediterranean Pizza
+41,42,null,null,12,830.25,850.5,L,Supreme,The Calabrese Pizza
+12,12,null,null,21,153,153,S,Veggie,The Italian Vegetables Pizza
+20,20,null,null,17,420,420,L,Veggie,The Italian Vegetables Pizza
+37,37,null,null,16,592,592,M,Classic,The Napolitana Pizza
+27,27,null,null,21,337.5,337.5,S,Veggie,The Spinach Pesto Pizza
+33,33,null,null,16,684.75,684.75,L,Supreme,The Soppressata Pizza
+15,15,null,null,16,251.25,251.25,M,Chicken,The Chicken Pesto Pizza
+78,78,null,null,12,994.5,994.5,S,Chicken,The Barbecue Chicken Pizza
+22,22,null,null,14,352,352,M,Classic,The Greek Pizza
+27,27,null,null,11,452.25,452.25,M,Veggie,The Italian Vegetables Pizza
+39,39,null,null,11,468,468,S,Classic,The Classic Deluxe Pizza
+4,4,null,null,19,49,49,S,Supreme,The Calabrese Pizza
+1,1,null,null,23,16.75,16.75,M,Chicken,The Chicken Alfredo Pizza
+12,12,null,null,11,246,246,L,Classic,The Greek Pizza
+39,39,null,null,15,380.25,380.25,S,Classic,The Pepperoni Pizza
+30,31,null,null,18,360,372,S,Classic,The Greek Pizza
+30,31,null,null,21,487.5,503.75,M,Supreme,The Sicilian Pizza
+17,18,null,null,20,352.75,373.5,L,Chicken,The Chicken Alfredo Pizza
+46,48,null,null,15,770.5,804,M,Chicken,The California Chicken Pizza
+55,55,null,null,19,1113.75,1113.75,L,Supreme,The Sicilian Pizza
+27,27,null,null,15,337.5,337.5,S,Supreme,The Pepper Salami Pizza
+71,75,null,null,13,1153.75,1218.75,M,Supreme,The Sicilian Pizza
+22,22,null,null,11,275,275,S,Supreme,The Spicy Italian Pizza
+53,54,null,null,19,1086.5,1107,L,Classic,The Napolitana Pizza
+22,22,null,null,21,280.5,280.5,S,Chicken,The California Chicken Pizza
+55,56,null,null,20,921.25,938,M,Chicken,The Chicken Alfredo Pizza
+27,27,null,null,21,324,324,S,Veggie,The Green Garden Pizza
+11,11,null,null,15,140.25,140.25,S,Chicken,The Chicken Alfredo Pizza
+139,145,null,null,12,1737.5,1812.5,M,Classic,The Pepperoni Pizza
+30,30,null,null,11,487.5,487.5,M,Supreme,The Calabrese Pizza
+6,6,null,null,14,72,72,S,Veggie,The Mexicana Pizza
+15,15,null,null,12,183.75,183.75,S,Supreme,The Calabrese Pizza
+117,123,null,null,12,2427.75,2552.25,L,Chicken,The California Chicken Pizza
+46,47,null,null,19,747.5,763.75,M,Supreme,The Calabrese Pizza
+110,117,null,null,13,2282.5,2427.75,L,Chicken,The Barbecue Chicken Pizza
+43,43,null,null,18,516,516,S,Veggie,The Spinach and Feta Pizza
+63,63,null,null,19,1055.25,1055.25,M,Chicken,The Chicken Alfredo Pizza
+14,14,null,null,21,231,231,M,Supreme,The Soppressata Pizza
+29,29,null,null,18,464,464,M,Classic,The Greek Pizza
+39,39,null,null,18,468,468,S,Veggie,The Mediterranean Pizza
+94,99,null,null,13,1151.5,1212.75,S,Supreme,The Sicilian Pizza
+23,23,null,null,19,471.5,471.5,L,Classic,The Greek Pizza
+87,88,null,null,16,1805.25,1826,L,Chicken,The Southwest Chicken Pizza
+35,35,null,null,11,560,560,M,Veggie,The Mexicana Pizza
+9,9,null,null,20,189,189,L,Veggie,The Italian Vegetables Pizza
+23,24,null,null,14,333.5,348,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+19,19,null,null,11,228,228,S,Classic,The Italian Capocollo Pizza
+7,7,null,null,22,141.75,141.75,L,Veggie,The Spinach and Feta Pizza
+70,73,null,null,13,1137.5,1186.25,M,Supreme,The Calabrese Pizza
+81,86,null,null,12,1640.25,1741.5,L,Supreme,The Sicilian Pizza
+100,100,null,null,17,1675,1675,M,Chicken,The California Chicken Pizza
+18,18,null,null,11,216,216,S,Veggie,The Vegetables + Vegetables Pizza
+38,38,null,null,14,456,456,S,Veggie,The Spinach and Feta Pizza
+30,30,null,null,21,615,615,L,Classic,The Classic Deluxe Pizza
+10,10,null,null,22,202.5,202.5,L,Veggie,The Mediterranean Pizza
+16,16,null,null,22,332,332,L,Veggie,The Spinach Pesto Pizza
+5,5,null,null,22,60,60,S,Veggie,The Mexicana Pizza
+123,126,null,null,12,2552.25,2614.5,L,Chicken,The Southwest Chicken Pizza
+179,190,null,null,13,3714.25,3942.5,L,Chicken,The Thai Chicken Pizza
+48,50,null,null,15,996,1037.5,L,Supreme,The Pepper Salami Pizza
+25,25,null,null,21,318.75,318.75,S,Chicken,The Southwest Chicken Pizza
+23,23,null,null,15,465.75,465.75,L,Veggie,The Vegetables + Vegetables Pizza
+33,33,null,null,20,841.5,841.5,XL,Classic,The Greek Pizza
+30,30,null,null,15,615,615,L,Classic,The Classic Deluxe Pizza
+11,11,null,null,22,137.5,137.5,S,Supreme,The Pepper Salami Pizza
+35,35,null,null,21,568.75,568.75,M,Supreme,The Calabrese Pizza
+1,1,null,null,10,12.75,12.75,S,Chicken,The Chicken Pesto Pizza
+32,32,null,null,17,536,536,M,Chicken,The Chicken Pesto Pizza
+63,65,null,null,17,1039.5,1072.5,M,Supreme,The Prosciutto and Arugula Pizza
+32,33,null,null,11,528,544.5,M,Supreme,The Prosciutto and Arugula Pizza
+56,57,null,null,12,1134,1154.25,L,Veggie,The Spinach and Feta Pizza
+34,34,null,null,19,544,544,M,Classic,The Napolitana Pizza
+29,29,null,null,19,369.75,369.75,S,Chicken,The Southwest Chicken Pizza
+16,16,null,null,22,232,232,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+21,21,null,null,16,336,336,M,Veggie,The Mediterranean Pizza
+31,31,null,null,22,556.4499999999999,556.4499999999999,L,Veggie,The Four Cheese Pizza
+41,41,null,null,13,676.5,676.5,M,Veggie,The Spinach Pesto Pizza
+177,188,null,null,13,3274.5,3478,L,Veggie,The Five Cheese Pizza
+33,33,null,null,19,412.5,412.5,S,Supreme,The Spicy Italian Pizza
+37,37,null,null,20,619.75,619.75,M,Veggie,The Italian Vegetables Pizza
+54,55,null,null,14,1093.5,1113.75,L,Veggie,The Mexicana Pizza
+11,11,null,null,21,132,132,S,Veggie,The Mexicana Pizza
+10,10,null,null,16,202.5,202.5,L,Veggie,The Green Garden Pizza
+4,4,null,null,23,64,64,M,Veggie,The Vegetables + Vegetables Pizza
+99,101,null,null,20,1777.050000000003,1812.950000000003,L,Veggie,The Four Cheese Pizza
+54,55,null,null,13,675,687.5,S,Supreme,The Spicy Italian Pizza
+65,66,null,null,13,1088.75,1105.5,M,Chicken,The Southwest Chicken Pizza
+65,66,null,null,21,1202.5,1221,L,Veggie,The Five Cheese Pizza
+106,108,null,null,12,1272,1296,S,Classic,The Classic Deluxe Pizza
+36,36,null,null,14,576,576,M,Veggie,The Spinach and Feta Pizza
+49,50,null,null,17,808.5,825,M,Supreme,The Pepper Salami Pizza
+18,18,null,null,11,229.5,229.5,S,Chicken,The Southwest Chicken Pizza
+56,58,null,null,13,1162,1203.5,L,Supreme,The Prosciutto and Arugula Pizza
+29,29,null,null,12,594.5,594.5,L,Classic,The Greek Pizza
+34,34,null,null,17,433.5,433.5,S,Chicken,The Southwest Chicken Pizza
+53,54,null,null,18,1073.25,1093.5,L,Supreme,The Sicilian Pizza
+9,9,null,null,11,144,144,M,Veggie,The Green Garden Pizza
+11,11,null,null,18,134.75,134.75,S,Supreme,The Calabrese Pizza
+49,50,null,null,17,820.75,837.5,M,Chicken,The Thai Chicken Pizza
+19,19,null,null,21,237.5,237.5,S,Supreme,The Pepper Salami Pizza
+42,42,null,null,16,672,672,M,Veggie,The Mexicana Pizza
+35,35,null,null,19,560,560,M,Classic,The Italian Capocollo Pizza
+12,12,null,null,15,150,150,S,Supreme,The Italian Supreme Pizza
+74,74,null,null,18,1517,1517,L,Classic,The Italian Capocollo Pizza
+108,111,null,null,12,2187,2247.75,L,Veggie,The Mexicana Pizza
+41,42,null,null,12,850.75,871.5,L,Supreme,The Spinach Supreme Pizza
+44,46,null,null,12,528,552,S,Classic,The Greek Pizza
+82,82,null,null,15,1701.5,1701.5,L,Chicken,The Thai Chicken Pizza
+54,54,null,null,18,675,675,S,Supreme,The Spinach Supreme Pizza
+48,48,null,null,18,612,612,S,Chicken,The Thai Chicken Pizza
+30,31,null,null,16,525,542.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+37,37,null,null,21,758.5,758.5,L,Classic,The Napolitana Pizza
+28,28,null,null,21,336,336,S,Classic,The Napolitana Pizza
+15,15,null,null,12,180,180,S,Veggie,The Mexicana Pizza
+9,9,null,null,21,148.5,148.5,M,Supreme,The Spinach Supreme Pizza
+43,45,null,null,13,870.75,911.25,L,Veggie,The Mediterranean Pizza
+67,68,null,null,14,1105.5,1122,M,Supreme,The Italian Supreme Pizza
+20,20,null,null,21,255,255,S,Chicken,The Chicken Pesto Pizza
+24,24,null,null,21,486,486,L,Veggie,The Vegetables + Vegetables Pizza
+90,95,null,null,12,1102.5,1163.75,S,Supreme,The Sicilian Pizza
+42,44,null,null,12,525,550,S,Veggie,The Spinach Pesto Pizza
+13,13,null,null,20,156,156,S,Veggie,The Mediterranean Pizza
+31,31,null,null,15,627.75,627.75,L,Veggie,The Spinach and Feta Pizza
+17,17,null,null,16,280.5,280.5,M,Supreme,The Soppressata Pizza
+200,206,null,null,18,2400,2472,S,Classic,The Big Meat Pizza
+71,73,null,null,14,887.5,912.5,M,Classic,The Pepperoni Pizza
+54,55,null,null,19,796.5,811.25,M,Veggie,The Four Cheese Pizza
+127,129,null,null,12,2095.5,2128.5,M,Supreme,The Italian Supreme Pizza
+80,84,null,null,17,1320,1386,M,Supreme,The Italian Supreme Pizza
+9,9,null,null,11,112.5,112.5,S,Supreme,The Italian Supreme Pizza
+1,1,null,null,10,16.5,16.5,M,Supreme,The Soppressata Pizza
+168,177,null,null,19,2016,2124,S,Classic,The Big Meat Pizza
+25,25,null,null,11,412.5,412.5,M,Supreme,The Pepper Salami Pizza
+28,28,null,null,19,357,357,S,Veggie,The Italian Vegetables Pizza
+56,56,null,null,16,938,938,M,Chicken,The Chicken Alfredo Pizza
+89,95,null,null,14,1597.5500000000025,1705.2500000000025,L,Veggie,The Four Cheese Pizza
+80,80,null,null,17,1660,1660,L,Supreme,The Italian Supreme Pizza
+66,67,null,null,12,874.5,887.75,M,Classic,The Hawaiian Pizza
+15,15,null,null,20,251.25,251.25,M,Chicken,The Chicken Pesto Pizza
+36,37,null,null,20,594,610.5,M,Supreme,The Prosciutto and Arugula Pizza
+25,27,null,null,15,412.5,445.5,M,Supreme,The Spicy Italian Pizza
+17,17,null,null,19,204,204,S,Veggie,The Mexicana Pizza
+22,24,null,null,22,368.5,402,M,Chicken,The Barbecue Chicken Pizza
+31,32,null,null,11,519.25,536,M,Chicken,The Thai Chicken Pizza
+43,45,null,null,17,516,540,S,Classic,The Italian Capocollo Pizza
+44,45,null,null,17,726,742.5,M,Supreme,The Spicy Italian Pizza
+84,87,null,null,21,1008,1044,S,Classic,The Big Meat Pizza
+23,23,null,null,21,276,276,S,Veggie,The Vegetables + Vegetables Pizza
+66,67,null,null,17,726,737,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+36,36,null,null,21,351,351,S,Classic,The Pepperoni Pizza
+6,6,null,null,22,75,75,S,Supreme,The Italian Supreme Pizza
+34,34,null,null,13,697,697,L,Classic,The Greek Pizza
+130,131,null,null,17,2697.5,2718.25,L,Chicken,The Thai Chicken Pizza
+13,13,null,null,20,269.75,269.75,L,Supreme,The Spinach Supreme Pizza
+14,14,null,null,22,231,231,M,Supreme,The Pepper Salami Pizza
+7,7,null,null,17,85.75,85.75,S,Supreme,The Calabrese Pizza
+9,9,null,null,22,182.25,182.25,L,Supreme,The Calabrese Pizza
+1,1,null,null,17,35.95,35.95,XXL,Classic,The Greek Pizza
+56,58,null,null,16,938,971.5,M,Chicken,The Southwest Chicken Pizza
+49,50,null,null,12,992.25,1012.5,L,Veggie,The Mediterranean Pizza
+72,73,null,null,11,1494,1514.75,L,Supreme,The Spicy Italian Pizza
+73,77,null,null,14,1222.75,1289.75,M,Chicken,The California Chicken Pizza
+55,55,null,null,19,880,880,M,Veggie,The Spinach and Feta Pizza
+38,38,null,null,12,475,475,S,Supreme,The Soppressata Pizza
+30,30,null,null,15,375,375,S,Supreme,The Spicy Italian Pizza
+12,12,null,null,22,192,192,M,Veggie,The Green Garden Pizza
+6,6,null,null,20,76.5,76.5,S,Chicken,The Chicken Alfredo Pizza
+24,25,null,null,15,498,518.75,L,Chicken,The Chicken Pesto Pizza
+51,51,null,null,12,1058.25,1058.25,L,Chicken,The Chicken Pesto Pizza
+23,23,null,null,15,379.5,379.5,M,Supreme,The Spinach Supreme Pizza
+82,82,null,null,19,1701.5,1701.5,L,Chicken,The Southwest Chicken Pizza
+27,27,null,null,22,445.5,445.5,L,Classic,The Hawaiian Pizza
+16,16,null,null,22,200,200,S,Supreme,The Spinach Supreme Pizza
+31,31,null,null,17,643.25,643.25,L,Veggie,The Spinach Pesto Pizza
+18,18,null,null,14,315,315,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+49,49,null,null,12,808.5,808.5,M,Supreme,The Spicy Italian Pizza
+139,142,null,null,17,2495.0499999999993,2548.899999999999,L,Veggie,The Four Cheese Pizza
+55,56,null,null,18,660,672,S,Veggie,The Vegetables + Vegetables Pizza
+23,23,null,null,14,368,368,M,Veggie,The Green Garden Pizza
+47,47,null,null,16,564,564,S,Veggie,The Green Garden Pizza
+22,22,null,null,22,456.5,456.5,L,Supreme,The Italian Supreme Pizza
+261,291,null,null,12,3132,3492,S,Classic,The Big Meat Pizza
+27,27,null,null,14,337.5,337.5,S,Supreme,The Spicy Italian Pizza
+37,39,null,null,19,767.75,809.25,L,Chicken,The Chicken Pesto Pizza
+1,1,null,null,10,16,16,M,Classic,The Italian Capocollo Pizza
+63,65,null,null,12,787.5,812.5,S,Supreme,The Prosciutto and Arugula Pizza
+49,49,null,null,20,600.25,600.25,S,Supreme,The Sicilian Pizza
+45,46,null,null,13,787.5,805,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+37,37,null,null,21,564.25,564.25,L,Classic,The Pepperoni Pizza
+88,90,null,null,12,1826,1867.5,L,Supreme,The Italian Supreme Pizza
+17,17,null,null,11,344.25,344.25,L,Supreme,The Calabrese Pizza
+20,20,null,null,16,415,415,L,Chicken,The Chicken Alfredo Pizza
+27,27,null,null,19,560.25,560.25,L,Supreme,The Soppressata Pizza
+74,77,null,null,20,925,962.5,M,Classic,The Pepperoni Pizza
+97,100,null,null,12,945.75,975,S,Classic,The Pepperoni Pizza
+11,11,null,null,11,176,176,M,Classic,The Greek Pizza
+19,19,null,null,21,313.5,313.5,M,Supreme,The Pepper Salami Pizza
+16,16,null,null,22,204,204,S,Chicken,The Barbecue Chicken Pizza
+12,12,null,null,18,249,249,L,Chicken,The Chicken Alfredo Pizza
+1,1,null,null,10,16.25,16.25,M,Supreme,The Calabrese Pizza
+14,14,null,null,21,231,231,M,Veggie,The Spinach Pesto Pizza
+64,64,null,null,20,1328,1328,L,Chicken,The Southwest Chicken Pizza
+32,32,null,null,13,384,384,S,Classic,The Greek Pizza
+53,55,null,null,12,874.5,907.5,M,Supreme,The Pepper Salami Pizza
+15,15,null,null,22,240,240,M,Veggie,The Vegetables + Vegetables Pizza
+12,12,null,null,19,153,153,S,Chicken,The Chicken Alfredo Pizza
+11,11,null,null,22,176,176,M,Classic,The Napolitana Pizza
+82,86,null,null,14,1701.5,1784.5,L,Supreme,The Spicy Italian Pizza
+13,13,null,null,20,159.25,159.25,S,Supreme,The Calabrese Pizza
+95,98,null,null,17,1971.25,2033.5,L,Chicken,The California Chicken Pizza
+27,27,null,null,20,445.5,445.5,M,Supreme,The Pepper Salami Pizza
+46,49,null,null,12,954.5,1016.75,L,Veggie,The Spinach Pesto Pizza
+15,15,null,null,22,311.25,311.25,L,Supreme,The Pepper Salami Pizza
+115,118,null,null,17,2386.25,2448.5,L,Chicken,The Southwest Chicken Pizza
+38,39,null,null,16,788.5,809.25,L,Supreme,The Prosciutto and Arugula Pizza
+7,7,null,null,22,89.25,89.25,S,Chicken,The Chicken Pesto Pizza
+62,62,null,null,12,1271,1271,L,Classic,The Classic Deluxe Pizza
+24,24,null,null,14,498,498,L,Supreme,The Prosciutto and Arugula Pizza
+44,45,null,null,14,484,495,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+1,1,null,null,23,16.5,16.5,M,Supreme,The Italian Supreme Pizza
+45,45,null,null,17,540,540,S,Veggie,The Vegetables + Vegetables Pizza
+19,19,null,null,21,228,228,S,Veggie,The Spinach and Feta Pizza
+60,61,null,null,21,1005,1021.75,M,Chicken,The Barbecue Chicken Pizza
+30,31,null,null,19,495,511.5,M,Supreme,The Spicy Italian Pizza
+12,12,null,null,21,201,201,M,Chicken,The Southwest Chicken Pizza
+26,27,null,null,21,325,337.5,S,Supreme,The Spicy Italian Pizza
+74,76,null,null,20,1239.5,1273,M,Chicken,The California Chicken Pizza
+21,21,null,null,19,252,252,S,Classic,The Italian Capocollo Pizza
+41,42,null,null,13,512.5,525,S,Supreme,The Pepper Salami Pizza
+23,23,null,null,22,477.25,477.25,L,Supreme,The Spicy Italian Pizza
+68,71,null,null,12,867,905.25,S,Chicken,The Thai Chicken Pizza
+51,53,null,null,18,637.5,662.5,S,Supreme,The Spicy Italian Pizza
+32,33,null,null,15,536,552.75,M,Chicken,The Southwest Chicken Pizza
+14,14,null,null,21,290.5,290.5,L,Chicken,The Chicken Alfredo Pizza
+13,13,null,null,13,263.25,263.25,L,Veggie,The Green Garden Pizza
+1,1,null,null,23,12.75,12.75,S,Chicken,The California Chicken Pizza
+58,58,null,null,17,739.5,739.5,S,Chicken,The Barbecue Chicken Pizza
+51,52,null,null,13,612,624,S,Veggie,The Vegetables + Vegetables Pizza
+75,76,null,null,16,1556.25,1577,L,Chicken,The California Chicken Pizza
+52,52,null,null,16,832,832,M,Veggie,The Spinach and Feta Pizza
+77,78,null,null,16,1559.25,1579.5,L,Veggie,The Mexicana Pizza
+19,19,null,null,15,304,304,M,Veggie,The Mediterranean Pizza
+78,80,null,null,17,760.5,780,S,Classic,The Pepperoni Pizza
+77,78,null,null,20,1597.75,1618.5,L,Chicken,The California Chicken Pizza
+21,21,null,null,11,346.5,346.5,M,Supreme,The Spicy Italian Pizza
+104,105,null,null,17,1716,1732.5,L,Classic,The Hawaiian Pizza
+62,65,null,null,18,1581,1657.5,XL,Classic,The Greek Pizza
+114,119,null,null,14,2109,2201.5,L,Veggie,The Five Cheese Pizza
+38,39,null,null,20,769.5,789.75,L,Veggie,The Spinach and Feta Pizza
+12,12,null,null,11,249,249,L,Supreme,The Spinach Supreme Pizza
+45,45,null,null,15,495,495,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+44,44,null,null,19,726,726,M,Supreme,The Pepper Salami Pizza
+35,35,null,null,19,420,420,S,Classic,The Greek Pizza
+63,63,null,null,13,803.25,803.25,S,Chicken,The Thai Chicken Pizza
+48,50,null,null,19,768,800,M,Veggie,The Vegetables + Vegetables Pizza
+2,2,null,null,10,24,24,S,Classic,The Napolitana Pizza
+21,21,null,null,20,252,252,S,Veggie,The Spinach and Feta Pizza
+80,80,null,null,19,1340,1340,M,Chicken,The Barbecue Chicken Pizza
+40,41,null,null,18,810,830.25,L,Veggie,The Mediterranean Pizza
+106,109,null,null,18,1775.5,1825.75,M,Chicken,The California Chicken Pizza
+1,1,null,null,9,20.75,20.75,L,Supreme,The Pepper Salami Pizza
+32,32,null,null,19,648,648,L,Supreme,The Calabrese Pizza
+16,16,null,null,14,332,332,L,Supreme,The Spinach Supreme Pizza
+102,105,null,null,17,1071,1102.5,S,Classic,The Hawaiian Pizza
+16,16,null,null,15,332,332,L,Supreme,The Spinach Supreme Pizza
+67,74,null,null,12,1390.25,1535.5,L,Supreme,The Prosciutto and Arugula Pizza
+29,29,null,null,14,362.5,362.5,S,Supreme,The Spinach Supreme Pizza
+17,17,null,null,21,212.5,212.5,S,Supreme,The Soppressata Pizza
+24,25,null,null,22,402,418.75,M,Chicken,The California Chicken Pizza
+34,34,null,null,22,705.5,705.5,L,Chicken,The Barbecue Chicken Pizza
+45,46,null,null,20,911.25,931.5,L,Supreme,The Sicilian Pizza
+150,153,null,null,19,2775,2830.5,L,Veggie,The Five Cheese Pizza
+45,45,null,null,16,720,720,M,Classic,The Italian Capocollo Pizza
+34,35,null,null,16,697,717.5,L,Classic,The Classic Deluxe Pizza
+10,10,null,null,22,120,120,S,Classic,The Napolitana Pizza
+15,15,null,null,14,315,315,L,Veggie,The Italian Vegetables Pizza
+61,61,null,null,13,1250.5,1250.5,L,Classic,The Classic Deluxe Pizza
+29,29,null,null,20,485.75,485.75,M,Chicken,The Thai Chicken Pizza
+25,25,null,null,14,400,400,M,Veggie,The Mexicana Pizza
+134,140,null,null,12,2244.5,2345,M,Chicken,The California Chicken Pizza
+64,66,null,null,12,768,792,S,Veggie,The Vegetables + Vegetables Pizza
+77,77,null,null,19,808.5,808.5,S,Classic,The Hawaiian Pizza
+50,50,null,null,14,800,800,M,Veggie,The Vegetables + Vegetables Pizza
+101,103,null,null,18,1262.5,1287.5,M,Classic,The Pepperoni Pizza
+6,6,null,null,21,73.5,73.5,S,Supreme,The Calabrese Pizza
+2,2,null,null,23,25,25,S,Veggie,The Spinach Pesto Pizza
+83,83,null,null,16,1037.5,1037.5,M,Classic,The Pepperoni Pizza
+81,83,null,null,19,1680.75,1722.25,L,Supreme,The Italian Supreme Pizza
+59,62,null,null,14,722.75,759.5,S,Supreme,The Sicilian Pizza
+26,26,null,null,16,429,429,M,Supreme,The Spinach Supreme Pizza
+1,1,null,null,23,20.75,20.75,L,Chicken,The Barbecue Chicken Pizza
+63,66,null,null,14,1307.25,1369.5,L,Chicken,The California Chicken Pizza
+41,42,null,null,21,502.25,514.5,S,Supreme,The Sicilian Pizza
+16,16,null,null,17,192,192,S,Veggie,The Mexicana Pizza
+21,21,null,null,22,320.25,320.25,L,Classic,The Pepperoni Pizza
+1,1,null,null,23,20.75,20.75,L,Chicken,The Thai Chicken Pizza
+1,1,null,null,23,16.25,16.25,M,Supreme,The Calabrese Pizza
+58,59,null,null,11,957,973.5,L,Classic,The Hawaiian Pizza
+168,176,null,null,13,2688,2816,M,Classic,The Classic Deluxe Pizza
+23,23,null,null,18,379.5,379.5,M,Supreme,The Soppressata Pizza
+7,7,null,null,21,141.75,141.75,L,Supreme,The Calabrese Pizza
+13,13,null,null,21,156,156,S,Veggie,The Mediterranean Pizza
+45,45,null,null,19,753.75,753.75,M,Chicken,The Southwest Chicken Pizza
+189,201,null,null,12,3392.54999999999,3607.9499999999903,L,Veggie,The Four Cheese Pizza
+53,55,null,null,17,1099.75,1141.25,L,Supreme,The Pepper Salami Pizza
+19,19,null,null,15,304,304,M,Veggie,The Green Garden Pizza
+24,24,null,null,22,498,498,L,Chicken,The Southwest Chicken Pizza
+8,8,null,null,22,96,96,S,Classic,The Italian Capocollo Pizza
+31,31,null,null,20,372,372,S,Classic,The Napolitana Pizza
+40,40,null,null,13,510,510,S,Veggie,The Italian Vegetables Pizza
+7,7,null,null,22,84,84,S,Veggie,The Vegetables + Vegetables Pizza
+47,47,null,null,15,693.25,693.25,M,Veggie,The Four Cheese Pizza
+23,23,null,null,20,379.5,379.5,M,Veggie,The Spinach Pesto Pizza
+22,22,null,null,19,445.5,445.5,L,Veggie,The Vegetables + Vegetables Pizza
+28,28,null,null,15,581,581,L,Supreme,The Soppressata Pizza
+1,1,null,null,21,35.95,35.95,XXL,Classic,The Greek Pizza
+77,80,null,null,12,847,880,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+128,134,null,null,13,2656,2780.5,L,Chicken,The California Chicken Pizza
+33,33,null,null,18,420.75,420.75,S,Chicken,The Chicken Pesto Pizza
+41,41,null,null,13,492,492,S,Classic,The Italian Capocollo Pizza
+25,26,null,null,22,243.75,253.5,S,Classic,The Pepperoni Pizza
+40,40,null,null,12,660,660,M,Veggie,The Spinach Pesto Pizza
+12,12,null,null,21,192,192,M,Classic,The Italian Capocollo Pizza
+54,54,null,null,13,1093.5,1093.5,L,Veggie,The Vegetables + Vegetables Pizza
+98,100,null,null,18,1984.5,2025,L,Veggie,The Mexicana Pizza
+25,25,null,null,16,300,300,S,Classic,The Greek Pizza
+28,28,null,null,13,350,350,S,Supreme,The Italian Supreme Pizza
+10,10,null,null,22,167.5,167.5,M,Veggie,The Italian Vegetables Pizza
+1,1,null,null,10,16,16,M,Classic,The Classic Deluxe Pizza
+21,21,null,null,19,336,336,M,Veggie,The Mediterranean Pizza
+35,35,null,null,18,420,420,S,Classic,The Italian Capocollo Pizza
+158,167,null,null,13,2836.099999999996,2997.649999999994,L,Veggie,The Four Cheese Pizza
+86,86,null,null,17,1032,1032,S,Classic,The Classic Deluxe Pizza
+29,29,null,null,18,478.5,478.5,M,Supreme,The Spinach Supreme Pizza
+21,21,null,null,20,252,252,S,Classic,The Italian Capocollo Pizza
+32,33,null,null,15,656,676.5,L,Classic,The Napolitana Pizza
+15,15,null,null,22,247.5,247.5,M,Supreme,The Spinach Supreme Pizza
+89,90,null,null,14,1424,1440,M,Classic,The Classic Deluxe Pizza
+69,70,null,null,17,1759.5,1785,XL,Classic,The Greek Pizza
+92,99,null,null,13,1403,1509.75,L,Classic,The Pepperoni Pizza
+1,1,null,null,19,35.95,35.95,XXL,Classic,The Greek Pizza
+14,14,null,null,14,290.5,290.5,L,Veggie,The Spinach Pesto Pizza
+41,42,null,null,12,512.5,525,S,Supreme,The Spinach Supreme Pizza
+3,3,null,null,22,38.25,38.25,S,Chicken,The Chicken Alfredo Pizza
+29,29,null,null,16,362.5,362.5,S,Supreme,The Soppressata Pizza
+67,69,null,null,12,804,828,S,Veggie,The Spinach and Feta Pizza
+22,22,null,null,20,352,352,M,Classic,The Greek Pizza
+16,16,null,null,15,324,324,L,Supreme,The Calabrese Pizza
+6,6,null,null,17,76.5,76.5,S,Chicken,The Chicken Alfredo Pizza
+79,81,null,null,13,1619.5,1660.5,L,Classic,The Napolitana Pizza
+38,38,null,null,14,898.6999999999995,898.6999999999995,S,Supreme,The Brie Carre Pizza
+32,32,null,null,12,384,384,S,Veggie,The Mediterranean Pizza
+64,65,null,null,18,1024,1040,M,Veggie,The Vegetables + Vegetables Pizza
+20,20,null,null,22,415,415,L,Chicken,The California Chicken Pizza
+8,8,null,null,15,168,168,L,Veggie,The Italian Vegetables Pizza
+26,26,null,null,11,331.5,331.5,S,Chicken,The California Chicken Pizza
+20,20,null,null,22,240,240,S,Classic,The Classic Deluxe Pizza
+32,32,null,null,14,424,424,M,Classic,The Hawaiian Pizza
+4,4,null,null,16,49,49,S,Supreme,The Calabrese Pizza
+21,21,null,null,19,267.75,267.75,S,Chicken,The Chicken Pesto Pizza
+36,37,null,null,20,585,601.25,M,Supreme,The Sicilian Pizza
+20,20,null,null,15,240,240,S,Classic,The Italian Capocollo Pizza
+9,9,null,null,22,112.5,112.5,S,Supreme,The Spicy Italian Pizza
+2,2,null,null,23,33,33,M,Supreme,The Prosciutto and Arugula Pizza
+27,27,null,null,16,337.5,337.5,S,Supreme,The Pepper Salami Pizza
+23,23,null,null,21,368,368,M,Veggie,The Mexicana Pizza
+26,27,null,null,11,533,553.5,L,Classic,The Classic Deluxe Pizza
+107,109,null,null,13,2166.75,2207.25,L,Veggie,The Mexicana Pizza
+3,3,null,null,12,107.85000000000001,107.85000000000001,XXL,Classic,The Greek Pizza
+27,28,null,null,20,560.25,581,L,Supreme,The Prosciutto and Arugula Pizza
+30,31,null,null,15,495,511.5,M,Supreme,The Pepper Salami Pizza
+43,43,null,null,16,698.75,698.75,M,Supreme,The Sicilian Pizza
+30,30,null,null,19,480,480,M,Classic,The Greek Pizza
+57,59,null,null,13,1154.25,1194.75,L,Veggie,The Spinach and Feta Pizza
+48,50,null,null,14,576,600,S,Classic,The Classic Deluxe Pizza
+83,88,null,null,13,1722.25,1826,L,Supreme,The Pepper Salami Pizza
+25,26,null,null,16,318.75,331.5,S,Chicken,The Barbecue Chicken Pizza
+30,30,null,null,17,360,360,S,Veggie,The Mediterranean Pizza
+15,15,null,null,16,180,180,S,Veggie,The Mexicana Pizza
+1,1,null,null,23,12,12,S,Veggie,The Green Garden Pizza
+127,129,null,null,16,2635.25,2676.75,L,Chicken,The Thai Chicken Pizza
+56,59,null,null,14,1162,1224.25,L,Supreme,The Pepper Salami Pizza
+49,50,null,null,19,624.75,637.5,S,Chicken,The California Chicken Pizza
+2,2,null,null,15,71.9,71.9,XXL,Classic,The Greek Pizza
+72,74,null,null,15,1494,1535.5,L,Chicken,The Barbecue Chicken Pizza
+54,54,null,null,12,648,648,S,Classic,The Napolitana Pizza
+51,52,null,null,20,841.5,858,L,Classic,The Hawaiian Pizza
+60,60,null,null,18,1005,1005,M,Chicken,The Thai Chicken Pizza
+2,2,null,null,23,41,41,L,Classic,The Napolitana Pizza
+59,60,null,null,13,752.25,765,S,Chicken,The Barbecue Chicken Pizza
+51,52,null,null,17,650.25,663,S,Chicken,The Thai Chicken Pizza
+56,56,null,null,20,896,896,M,Veggie,The Spinach and Feta Pizza
+51,52,null,null,13,854.25,871,M,Chicken,The Thai Chicken Pizza
+104,106,null,null,17,2158,2199.5,L,Chicken,The Barbecue Chicken Pizza
+31,32,null,null,14,395.25,408,S,Chicken,The Barbecue Chicken Pizza
+26,26,null,null,21,416,416,M,Veggie,The Spinach and Feta Pizza
+25,25,null,null,14,506.25,506.25,L,Veggie,The Vegetables + Vegetables Pizza
+20,20,null,null,16,320,320,M,Veggie,The Green Garden Pizza
+49,49,null,null,17,992.25,992.25,L,Veggie,The Spinach and Feta Pizza
+39,40,null,null,21,653.25,670,M,Chicken,The California Chicken Pizza
+25,25,null,null,16,300,300,S,Classic,The Italian Capocollo Pizza
+6,6,null,null,22,123,123,L,Classic,The Greek Pizza
+1,1,null,null,23,25.5,25.5,XL,Classic,The Greek Pizza
+54,55,null,null,18,594,605,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+71,75,null,null,11,1313.5,1387.5,L,Veggie,The Five Cheese Pizza
+24,25,null,null,17,396,412.5,M,Veggie,The Spinach Pesto Pizza
+42,44,null,null,12,672,704,M,Veggie,The Green Garden Pizza
+7,7,null,null,15,145.25,145.25,L,Chicken,The Chicken Alfredo Pizza
+60,60,null,null,14,585,585,S,Classic,The Pepperoni Pizza
+37,38,null,null,12,592,608,M,Classic,The Greek Pizza
+95,96,null,null,17,1187.5,1200,M,Classic,The Pepperoni Pizza
+49,49,null,null,20,477.75,477.75,S,Classic,The Pepperoni Pizza
+12,12,null,null,11,144,144,S,Classic,The Greek Pizza
+14,14,null,null,22,178.5,178.5,S,Chicken,The Southwest Chicken Pizza
+38,38,null,null,16,503.5,503.5,M,Classic,The Hawaiian Pizza
+8,8,null,null,22,96,96,S,Veggie,The Spinach and Feta Pizza
+45,45,null,null,17,753.75,753.75,M,Veggie,The Italian Vegetables Pizza
+48,52,null,null,11,984,1066,L,Classic,The Italian Capocollo Pizza
+49,49,null,null,18,588,588,S,Classic,The Napolitana Pizza
+20,21,null,null,19,250,262.5,S,Supreme,The Italian Supreme Pizza
+14,14,null,null,22,357,357,XL,Classic,The Greek Pizza
+83,88,null,null,19,1722.25,1826,L,Chicken,The California Chicken Pizza
+27,27,null,null,11,344.25,344.25,S,Chicken,The Barbecue Chicken Pizza
+54,55,null,null,13,1120.5,1141.25,L,Supreme,The Soppressata Pizza
+39,40,null,null,16,922.3499999999995,945.9999999999994,S,Supreme,The Brie Carre Pizza
+44,45,null,null,11,583,596.25,M,Classic,The Hawaiian Pizza
+29,29,null,null,20,384.25,384.25,M,Classic,The Hawaiian Pizza
+42,42,null,null,16,504,504,S,Classic,The Napolitana Pizza
+34,34,null,null,11,569.5,569.5,M,Chicken,The Chicken Alfredo Pizza
+49,49,null,null,20,588,588,S,Veggie,The Green Garden Pizza
+42,42,null,null,14,703.5,703.5,M,Veggie,The Italian Vegetables Pizza
+24,26,null,null,13,288,312,S,Veggie,The Mexicana Pizza
+42,42,null,null,19,861,861,L,Classic,The Classic Deluxe Pizza
+20,20,null,null,16,250,250,S,Supreme,The Italian Supreme Pizza
+36,36,null,null,16,594,594,M,Supreme,The Pepper Salami Pizza
+119,120,null,null,17,1993.25,2010,M,Chicken,The Barbecue Chicken Pizza
+113,116,null,null,18,2344.75,2407,L,Chicken,The Southwest Chicken Pizza
+48,49,null,null,11,792,808.5,M,Supreme,The Italian Supreme Pizza
+123,128,null,null,12,2552.25,2656,L,Chicken,The Barbecue Chicken Pizza
+24,24,null,null,17,384,384,M,Classic,The Greek Pizza
+56,60,null,null,11,1162,1245,L,Chicken,The Barbecue Chicken Pizza
+1,1,null,null,22,12.25,12.25,S,Supreme,The Calabrese Pizza
+51,51,null,null,18,816,816,M,Veggie,The Mexicana Pizza
+56,57,null,null,12,896,912,M,Classic,The Italian Capocollo Pizza
+3,3,null,null,22,60.75,60.75,L,Veggie,The Green Garden Pizza
+168,176,null,null,12,3486,3652,L,Chicken,The Thai Chicken Pizza
+39,39,null,null,16,487.5,487.5,S,Veggie,The Spinach Pesto Pizza
+29,29,null,null,19,478.5,478.5,M,Supreme,The Spinach Supreme Pizza
+70,72,null,null,14,1452.5,1494,L,Chicken,The Southwest Chicken Pizza
+31,31,null,null,16,372,372,S,Veggie,The Vegetables + Vegetables Pizza
+92,93,null,null,12,1541,1557.75,M,Chicken,The Chicken Alfredo Pizza
+27,28,null,null,21,452.25,469,M,Chicken,The Thai Chicken Pizza
+1,1,null,null,23,13.25,13.25,M,Classic,The Hawaiian Pizza
+26,26,null,null,15,325,325,S,Veggie,The Spinach Pesto Pizza
+62,62,null,null,16,1286.5,1286.5,L,Supreme,The Pepper Salami Pizza
+25,25,null,null,14,506.25,506.25,L,Veggie,The Spinach and Feta Pizza
+25,25,null,null,21,518.75,518.75,L,Supreme,The Pepper Salami Pizza
+34,34,null,null,15,433.5,433.5,S,Chicken,The Thai Chicken Pizza
+15,15,null,null,21,180,180,S,Classic,The Italian Capocollo Pizza
+29,31,null,null,22,587.25,627.75,L,Veggie,The Mexicana Pizza
+33,33,null,null,20,528,528,M,Classic,The Napolitana Pizza
+2,2,null,null,23,41.5,41.5,L,Chicken,The California Chicken Pizza
+1,1,null,null,9,25.5,25.5,XL,Classic,The Greek Pizza
+31,31,null,null,16,395.25,395.25,S,Chicken,The Southwest Chicken Pizza
+30,30,null,null,20,382.5,382.5,S,Chicken,The Thai Chicken Pizza
+20,20,null,null,16,240,240,S,Veggie,The Mediterranean Pizza
+43,43,null,null,18,688,688,M,Classic,The Napolitana Pizza
+28,28,null,null,14,336,336,S,Classic,The Greek Pizza
+26,26,null,null,20,429,429,M,Supreme,The Spinach Supreme Pizza
+1,1,null,null,23,20.75,20.75,L,Supreme,The Prosciutto and Arugula Pizza
+47,47,null,null,18,1111.5499999999997,1111.5499999999997,S,Supreme,The Brie Carre Pizza
+42,42,null,null,19,993.2999999999994,993.2999999999994,S,Supreme,The Brie Carre Pizza
+55,57,null,null,15,1141.25,1182.75,L,Chicken,The California Chicken Pizza
+20,20,null,null,21,330,330,M,Supreme,The Spicy Italian Pizza
+13,14,null,null,22,217.75,234.5,M,Chicken,The Thai Chicken Pizza
+38,38,null,null,20,617.5,617.5,M,Supreme,The Calabrese Pizza
+24,24,null,null,21,402,402,M,Veggie,The Italian Vegetables Pizza
+8,8,null,null,22,132,132,M,Veggie,The Spinach Pesto Pizza
+42,42,null,null,18,871.5,871.5,L,Chicken,The Chicken Pesto Pizza
+26,26,null,null,19,429,429,M,Veggie,The Spinach Pesto Pizza
+31,31,null,null,20,496,496,M,Classic,The Italian Capocollo Pizza
+36,36,null,null,17,450,450,S,Supreme,The Prosciutto and Arugula Pizza
+15,15,null,null,22,221.25,221.25,M,Veggie,The Four Cheese Pizza
+1,1,null,null,23,12.75,12.75,S,Chicken,The Thai Chicken Pizza
+53,53,null,null,18,887.75,887.75,M,Veggie,The Italian Vegetables Pizza
+38,39,null,null,21,627,643.5,M,Supreme,The Prosciutto and Arugula Pizza
+27,27,null,null,20,553.5,553.5,L,Classic,The Classic Deluxe Pizza
+126,130,null,null,19,2614.5,2697.5,L,Chicken,The Thai Chicken Pizza
+23,24,null,null,20,368,384,M,Veggie,The Mediterranean Pizza
+46,46,null,null,19,552,552,S,Veggie,The Spinach and Feta Pizza
+85,86,null,null,20,892.5,903,S,Classic,The Hawaiian Pizza
+79,81,null,null,16,1303.5,1336.5,L,Classic,The Hawaiian Pizza
+43,43,null,null,18,688,688,M,Classic,The Italian Capocollo Pizza
+44,44,null,null,16,528,528,S,Veggie,The Spinach and Feta Pizza
+24,24,null,null,11,486,486,L,Veggie,The Mediterranean Pizza
+15,15,null,null,15,311.25,311.25,L,Veggie,The Spinach Pesto Pizza
+28,28,null,null,21,567,567,L,Supreme,The Sicilian Pizza
+29,29,null,null,16,601.75,601.75,L,Veggie,The Spinach Pesto Pizza
+25,25,null,null,13,312.5,312.5,S,Supreme,The Soppressata Pizza
+16,16,null,null,22,260,260,M,Supreme,The Sicilian Pizza
+55,55,null,null,13,660,660,S,Veggie,The Spinach and Feta Pizza
+16,17,null,null,15,256,272,M,Classic,The Greek Pizza
+32,32,null,null,19,408,408,S,Chicken,The Thai Chicken Pizza
+26,27,null,null,22,435.5,452.25,M,Chicken,The Chicken Alfredo Pizza
+42,42,null,null,13,672,672,M,Classic,The Greek Pizza
+71,72,null,null,13,1136,1152,M,Veggie,The Spinach and Feta Pizza
+22,22,null,null,14,275,275,S,Supreme,The Soppressata Pizza
+88,92,null,null,13,1826,1909,L,Supreme,The Italian Supreme Pizza
+72,72,null,null,21,1494,1494,L,Chicken,The Thai Chicken Pizza
+98,100,null,null,12,1445.5,1475,M,Veggie,The Four Cheese Pizza
+66,66,null,null,18,1089,1089,M,Supreme,The Prosciutto and Arugula Pizza
+37,37,null,null,15,592,592,M,Veggie,The Vegetables + Vegetables Pizza
+52,52,null,null,20,832,832,M,Veggie,The Vegetables + Vegetables Pizza
+111,119,null,null,12,1859.25,1993.25,M,Chicken,The Barbecue Chicken Pizza
+52,53,null,null,15,871,887.75,M,Chicken,The Chicken Alfredo Pizza
+38,39,null,null,12,608,624,M,Veggie,The Mediterranean Pizza
+26,26,null,null,17,331.5,331.5,S,Chicken,The Chicken Pesto Pizza
+38,38,null,null,17,608,608,M,Classic,The Italian Capocollo Pizza
+20,20,null,null,21,350,350,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+41,41,null,null,17,522.75,522.75,S,Chicken,The California Chicken Pizza
+108,109,null,null,18,1809,1825.75,M,Chicken,The Barbecue Chicken Pizza
+55,55,null,null,17,660,660,S,Veggie,The Green Garden Pizza
+42,43,null,null,11,409.5,419.25,S,Classic,The Pepperoni Pizza
+74,74,null,null,17,906.5,906.5,S,Supreme,The Sicilian Pizza
+27,27,null,null,11,472.5,472.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+16,17,null,null,11,204,216.75,S,Veggie,The Italian Vegetables Pizza
+56,56,null,null,13,714,714,S,Chicken,The Southwest Chicken Pizza
+44,44,null,null,14,902,902,L,Classic,The Napolitana Pizza
+3,3,null,null,10,50.25,50.25,M,Chicken,The California Chicken Pizza
+37,37,null,null,22,767.75,767.75,L,Chicken,The Thai Chicken Pizza
+13,13,null,null,20,263.25,263.25,L,Supreme,The Calabrese Pizza
+67,69,null,null,15,1122.25,1155.75,M,Chicken,The Barbecue Chicken Pizza
+78,81,null,null,15,1443,1498.5,L,Veggie,The Five Cheese Pizza
+37,37,null,null,14,619.75,619.75,M,Chicken,The Southwest Chicken Pizza
+48,48,null,null,16,792,792,M,Supreme,The Prosciutto and Arugula Pizza
+2,2,null,null,20,71.9,71.9,XXL,Classic,The Greek Pizza
+22,23,null,null,14,275,287.5,S,Supreme,The Pepper Salami Pizza
+41,42,null,null,20,451,462,S,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+62,64,null,null,11,651,672,S,Classic,The Hawaiian Pizza
+39,40,null,null,15,643.5,660,M,Supreme,The Prosciutto and Arugula Pizza
+6,6,null,null,20,72,72,S,Veggie,The Mexicana Pizza
+25,25,null,null,12,412.5,412.5,M,Supreme,The Spinach Supreme Pizza
+6,6,null,null,16,215.7,215.7,XXL,Classic,The Greek Pizza
+16,16,null,null,11,264,264,M,Supreme,The Spinach Supreme Pizza
+27,27,null,null,20,337.5,337.5,S,Supreme,The Prosciutto and Arugula Pizza
+30,32,null,null,13,480,512,M,Veggie,The Mediterranean Pizza
+2,2,null,null,23,25.5,25.5,S,Chicken,The Southwest Chicken Pizza
+14,14,null,null,22,245,245,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+1,1,null,null,23,16.75,16.75,M,Chicken,The Southwest Chicken Pizza
+47,47,null,null,13,775.5,775.5,M,Supreme,The Pepper Salami Pizza
+23,23,null,null,22,471.5,471.5,L,Classic,The Italian Capocollo Pizza
+18,18,null,null,11,297,297,M,Supreme,The Soppressata Pizza
+33,33,null,null,21,841.5,841.5,XL,Classic,The Greek Pizza
+49,49,null,null,19,612.5,612.5,S,Supreme,The Prosciutto and Arugula Pizza
+61,62,null,null,17,991.25,1007.5,M,Supreme,The Calabrese Pizza
+3,3,null,null,11,107.85000000000001,107.85000000000001,XXL,Classic,The Greek Pizza
+212,221,null,null,17,2544,2652,S,Classic,The Big Meat Pizza
+57,58,null,null,13,684,696,S,Classic,The Napolitana Pizza
+41,43,null,null,13,512.5,537.5,S,Veggie,The Spinach Pesto Pizza
+44,45,null,null,22,528,540,S,Classic,The Big Meat Pizza
+89,89,null,null,13,1824.5,1824.5,L,Classic,The Italian Capocollo Pizza
+25,26,null,null,11,400,416,M,Classic,The Italian Capocollo Pizza
+22,22,null,null,11,451,451,L,Classic,The Napolitana Pizza
+21,21,null,null,16,430.5,430.5,L,Classic,The Greek Pizza
+1,1,null,null,23,20.75,20.75,L,Supreme,The Italian Supreme Pizza
+70,70,null,null,12,1172.5,1172.5,M,Veggie,The Italian Vegetables Pizza
+64,66,null,null,20,1296,1336.5,L,Veggie,The Mexicana Pizza
+40,43,null,null,11,830,892.25,L,Chicken,The California Chicken Pizza
+31,31,null,null,19,511.5,511.5,M,Supreme,The Soppressata Pizza
+36,36,null,null,18,522,522,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+6,6,null,null,22,79.5,79.5,M,Classic,The Hawaiian Pizza
+1,1,null,null,9,20.25,20.25,L,Veggie,The Vegetables + Vegetables Pizza
+154,158,null,null,12,3195.5,3278.5,L,Supreme,The Spicy Italian Pizza
+64,66,null,null,13,1024,1056,M,Veggie,The Mexicana Pizza
+18,18,null,null,14,229.5,229.5,S,Chicken,The Chicken Pesto Pizza
+17,17,null,null,22,284.75,284.75,M,Chicken,The Southwest Chicken Pizza
+31,34,null,null,14,387.5,425,S,Veggie,The Spinach Pesto Pizza
+55,56,null,null,18,921.25,938,M,Chicken,The Southwest Chicken Pizza
+21,21,null,null,16,441,441,L,Veggie,The Italian Vegetables Pizza
+55,55,null,null,12,880,880,M,Classic,The Napolitana Pizza
+44,44,null,null,17,550,550,S,Supreme,The Spicy Italian Pizza
+55,58,null,null,18,728.75,768.5,M,Classic,The Hawaiian Pizza
+44,44,null,null,17,550,550,S,Veggie,The Spinach Pesto Pizza
+24,24,null,null,17,492,492,L,Classic,The Greek Pizza
+17,17,null,null,14,348.5,348.5,L,Classic,The Greek Pizza
+13,13,null,null,11,208,208,M,Veggie,The Mediterranean Pizza
+1,1,null,null,23,14.5,14.5,M,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+45,47,null,null,14,933.75,975.25,L,Supreme,The Italian Supreme Pizza
+18,18,null,null,17,225,225,S,Supreme,The Italian Supreme Pizza
+23,23,null,null,21,543.9499999999998,543.9499999999998,S,Supreme,The Brie Carre Pizza
+45,45,null,null,17,787.5,787.5,L,Classic,"The Pepperoni, Mushroom, and Peppers Pizza"
+32,32,null,null,18,656,656,L,Classic,The Greek Pizza
+33,33,null,null,18,544.5,544.5,M,Veggie,The Spinach Pesto Pizza
+1,1,null,null,10,20.5,20.5,L,Classic,The Napolitana Pizza
+1,1,null,null,9,16.5,16.5,L,Classic,The Hawaiian Pizza
